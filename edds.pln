@@ -1,0 +1,358 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>EDDS to EDDS</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>3000</CruisingAlt>
+        <DepartureID>EDDS</DepartureID>
+        <DepartureLLA>N48° 41' 30.19",E9° 12' 48.01",+001276.00</DepartureLLA>
+        <DestinationID>EDDS</DestinationID>
+        <DestinationLLA>N48° 41' 23.56",E9° 13' 19.07",+001276.00</DestinationLLA>
+        <Descr>EDDS, EDDS</Descr>
+        <DepartureName>Stuttgart</DepartureName>
+        <DestinationName>Stuttgart</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="EDDS">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N48° 41' 23.56",E9° 13' 19.07",+001276.00</WorldPosition>
+            <RunwayNumberFP>7</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>EDDS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP1">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 41' 30.22",E9° 13' 55.25",+001412.46</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP2">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 43' 30.82",E9° 4' 13.04",+003000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP3">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 44' 51.31",E9° 6' 43.28",+003000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP4">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 47' 2.47",E9° 4' 51.33",+003000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP5">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 51' 49.31",E9° 10' 25.66",+003000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="EDTQ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N48° 51' 50.74",E9° 13' 26.67",+003000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>EDTQ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP6">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 52' 25.08",E9° 16' 26.36",+003000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP7">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 49' 11.11",E9° 20' 22.42",+003000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP8">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 48' 15.75",E9° 34' 29.67",+003000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP9">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 47' 13.88",E9° 45' 35.24",+003000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="ED36">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N48° 44' 46.54",E9° 51' 40.79",+003000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>ED36</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP10">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 49' 19.65",E9° 54' 11.87",+003000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP11">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 49' 20.87",E9° 59' 47.43",+003000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP12">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 49' 59.10",E10° 5' 33.02",+003000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP13">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 52' 49.89",E10° 7' 37.71",+003000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP14">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 53' 6.94",E10° 9' 57.52",+003000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP15">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 51' 48.91",E10° 20' 48.81",+003000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="EDNO">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N48° 52' 16.14",E10° 30' 21.99",+003000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>EDNO</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP16">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 47' 4.52",E10° 41' 27.45",+003000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP17">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 41' 47.04",E10° 45' 32.17",+003000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP18">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 33' 15.63",E10° 24' 16.38",+003000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="EDMU">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N48° 34' 9.88",E10° 21' 28.56",+003000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>EDMU</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP19">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 27' 38.26",E10° 16' 48.34",+003000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP20">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 25' 27.90",E10° 18' 6.20",+003000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP21">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 13' 29.65",E10° 17' 46.12",+003000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP22">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 12' 3.16",E10° 7' 34.63",+003000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP23">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 59' 55.15",E10° 8' 57.75",+003000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="EDJA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N47° 59' 19.71",E10° 14' 22.15",+003000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>EDJA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP24">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 57' 41.12",E10° 11' 6.90",+003000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP25">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 44' 24.47",E10° 20' 28.65",+003000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="EDMK">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N47° 41' 29.85",E10° 20' 18.27",+003000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>EDMK</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP26">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 40' 47.82",E10° 18' 13.93",+003000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP27">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 34' 28.82",E10° 14' 56.48",+003000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP28">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 34' 15.49",E10° 10' 21.79",+003000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP29">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 32' 54.57",E10° 2' 12.35",+003000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP30">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 28' 32.03",E9° 51' 17.91",+003000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP31">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 30' 2.65",E9° 41' 42.88",+003000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP32">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 32' 47.07",E9° 41' 2.40",+003000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP33">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 38' 58.78",E9° 29' 45.09",+003000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="EDNY">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N47° 40' 16.77",E9° 30' 41.36",+003000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>EDNY</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP34">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 42' 21.84",E9° 11' 42.24",+003000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="EDTZ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N47° 40' 53.00",E9° 8' 21.95",+003000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>EDTZ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP35">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 41' 36.08",E9° 3' 35.11",+003000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP36">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 38' 53.78",E8° 53' 28.26",+003000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP37">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 41' 37.74",E8° 37' 46.45",+003000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP38">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 38' 37.96",E8° 36' 18.70",+003000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="ED33">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N47° 39' 3.11",E8° 23' 12.03",+003000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>ED33</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP39">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 37' 57.16",E8° 15' 48.92",+003000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP40">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 49' 3.95",E8° 8' 59.81",+003000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP41">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 52' 6.45",E8° 0' 39.25",+003000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="ED10">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N47° 57' 17.07",E7° 57' 21.73",+003000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>ED10</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP42">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 59' 51.84",E7° 49' 26.89",+003000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP43">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 15' 50.40",E7° 43' 17.33",+003000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="EDTL">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N48° 22' 9.29",E7° 49' 39.84",+003000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>EDTL</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP44">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 27' 16.95",E7° 45' 22.16",+003000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP45">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 34' 58.68",E7° 47' 45.53",+003000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP46">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 44' 52.94",E7° 58' 13.40",+003000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="EDSB">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N48° 46' 45.70",E8° 4' 49.69",+003000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>EDSB</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP47">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 47' 30.98",E8° 9' 43.07",+003000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP48">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 58' 17.95",E8° 26' 23.74",+003000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP49">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N49° 5' 11.26",E8° 20' 22.22",+003000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP50">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N49° 15' 14.09",E8° 25' 22.40",+003000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="EDRY">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N49° 18' 8.76",E8° 27' 8.35",+003000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>EDRY</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP51">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N49° 16' 52.49",E8° 37' 20.50",+003000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP52">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N49° 14' 20.83",E8° 53' 49.27",+003000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="EDGM">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N49° 23' 57.74",E9° 7' 24.99",+003000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>EDGM</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP53">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N49° 10' 54.13",E9° 13' 28.37",+003000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP54">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N49° 0' 14.75",E9° 9' 12.53",+003000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP55">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 50' 9.69",E9° 12' 56.24",+003000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP56">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 45' 42.65",E9° 15' 33.21",+002782.69</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="EDDS">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N48° 41' 23.56",E9° 13' 19.07",+001276.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>EDDS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

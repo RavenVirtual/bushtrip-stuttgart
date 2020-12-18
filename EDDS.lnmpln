@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LittleNavmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.littlenavmap.org/schema/lnmpln.xsd">
+  <Flightplan>
+    <Header>
+      <FlightplanType>VFR</FlightplanType>
+      <CruisingAlt>3000</CruisingAlt>
+      <CreationDate>2020-12-04T18:04:31</CreationDate>
+      <FileVersion>1.0</FileVersion>
+      <ProgramName>Little Navmap</ProgramName>
+      <ProgramVersion>2.6.4.beta</ProgramVersion>
+      <Documentation>https://www.littlenavmap.org/lnmpln.html</Documentation>
+    </Header>
+    <SimData>MSFS</SimData>
+    <NavData Cycle="1801">NAVIGRAPH</NavData>
+    <Departure>
+      <Pos Lon="9.213336" Lat="48.691719" Alt="1276.00"/>
+      <Start>PARKING 312</Start>
+    </Departure>
+    <Waypoints>
+      <Waypoint>
+        <Name>Stuttgart</Name>
+        <Ident>EDDS</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="9.221964" Lat="48.689877" Alt="1276.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP1</Ident>
+        <Type>USER</Type>
+        <Pos Lon="9.232015" Lat="48.691727" Alt="1412.46"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP2</Ident>
+        <Type>USER</Type>
+        <Pos Lon="9.070288" Lat="48.725227" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP3</Ident>
+        <Type>USER</Type>
+        <Pos Lon="9.112023" Lat="48.747585" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP4</Ident>
+        <Type>USER</Type>
+        <Pos Lon="9.080925" Lat="48.784019" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP5</Ident>
+        <Type>USER</Type>
+        <Pos Lon="9.173794" Lat="48.863697" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Pattonville</Name>
+        <Ident>EDTQ</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="9.224076" Lat="48.864094" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP6</Ident>
+        <Type>USER</Type>
+        <Pos Lon="9.273988" Lat="48.873634" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP7</Ident>
+        <Type>USER</Type>
+        <Pos Lon="9.339562" Lat="48.819752" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP8</Ident>
+        <Type>USER</Type>
+        <Pos Lon="9.574908" Lat="48.804375" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP9</Ident>
+        <Type>USER</Type>
+        <Pos Lon="9.759789" Lat="48.787189" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Flugplatz Hornberg</Name>
+        <Ident>ED36</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="9.861332" Lat="48.746262" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP10</Ident>
+        <Type>USER</Type>
+        <Pos Lon="9.903296" Lat="48.822124" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP11</Ident>
+        <Type>USER</Type>
+        <Pos Lon="9.996509" Lat="48.822464" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP12</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.092506" Lat="48.833084" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP13</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.127143" Lat="48.880524" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP14</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.165977" Lat="48.885262" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP15</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.346890" Lat="48.863586" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Nördlingen</Name>
+        <Ident>EDNO</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="10.506109" Lat="48.871151" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP16</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.690958" Lat="48.784588" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP17</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.758936" Lat="48.696400" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP18</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.404549" Lat="48.554340" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Gundelfingen</Name>
+        <Ident>EDMU</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="10.357932" Lat="48.569412" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP19</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.280094" Lat="48.460629" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP20</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.301723" Lat="48.424416" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP21</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.296144" Lat="48.224903" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP22</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.126286" Lat="48.200878" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP23</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.149374" Lat="47.998653" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Allgäu</Name>
+        <Ident>EDJA</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="10.239487" Lat="47.988808" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP24</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.185251" Lat="47.961422" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP25</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.341291" Lat="47.740131" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Dürach</Name>
+        <Ident>EDMK</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="10.338408" Lat="47.691624" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP26</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.303869" Lat="47.679951" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP27</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.249023" Lat="47.574673" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP28</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.172720" Lat="47.570969" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP29</Ident>
+        <Type>USER</Type>
+        <Pos Lon="10.036764" Lat="47.548492" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP30</Ident>
+        <Type>USER</Type>
+        <Pos Lon="9.854975" Lat="47.475563" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP31</Ident>
+        <Type>USER</Type>
+        <Pos Lon="9.695244" Lat="47.500736" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP32</Ident>
+        <Type>USER</Type>
+        <Pos Lon="9.684000" Lat="47.546410" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP33</Ident>
+        <Type>USER</Type>
+        <Pos Lon="9.495859" Lat="47.649662" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Friedrichshafen</Name>
+        <Ident>EDNY</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="9.511490" Lat="47.671326" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP34</Ident>
+        <Type>USER</Type>
+        <Pos Lon="9.195065" Lat="47.706066" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Konstanz</Name>
+        <Ident>EDTZ</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="9.139430" Lat="47.681389" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP35</Ident>
+        <Type>USER</Type>
+        <Pos Lon="9.059753" Lat="47.693356" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP36</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.891182" Lat="47.648273" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP37</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.629570" Lat="47.693817" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP38</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.605194" Lat="47.643879" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Flugplatz Bohlhof</Name>
+        <Ident>ED33</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="8.386676" Lat="47.650864" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP39</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.263588" Lat="47.632545" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP40</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.149948" Lat="47.817764" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP41</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.010902" Lat="47.868458" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Flugplatz Kirchzarten</Name>
+        <Ident>ED10</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="7.956037" Lat="47.954742" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP42</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.824135" Lat="47.997734" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP43</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.721481" Lat="48.264000" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Lahr</Name>
+        <Ident>EDTL</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="7.827734" Lat="48.369247" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP44</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.756157" Lat="48.454708" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP45</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.795982" Lat="48.582966" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP46</Ident>
+        <Type>USER</Type>
+        <Pos Lon="7.970390" Lat="48.748039" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Karlsruhe/Baden-Baden</Name>
+        <Ident>EDSB</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="8.080468" Lat="48.779362" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP47</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.161964" Lat="48.791939" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP48</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.439927" Lat="48.971653" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP49</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.339505" Lat="49.086460" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP50</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.422890" Lat="49.253914" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Speyer</Name>
+        <Ident>EDRY</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="8.452320" Lat="49.302433" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP51</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.622360" Lat="49.281246" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP52</Ident>
+        <Type>USER</Type>
+        <Pos Lon="8.897018" Lat="49.239120" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Mosbach-Lohrbach</Name>
+        <Ident>EDGM</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="9.123609" Lat="49.399372" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP53</Ident>
+        <Type>USER</Type>
+        <Pos Lon="9.224548" Lat="49.181702" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP54</Ident>
+        <Type>USER</Type>
+        <Pos Lon="9.153481" Lat="49.004097" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP55</Ident>
+        <Type>USER</Type>
+        <Pos Lon="9.215622" Lat="48.836025" Alt="3000.00"/>
+      </Waypoint>
+      <Waypoint>
+        <Ident>WP56</Ident>
+        <Type>USER</Type>
+        <Pos Lon="9.259224" Lat="48.761848" Alt="2782.69"/>
+      </Waypoint>
+      <Waypoint>
+        <Name>Stuttgart</Name>
+        <Ident>EDDS</Ident>
+        <Type>AIRPORT</Type>
+        <Pos Lon="9.221964" Lat="48.689877" Alt="1276.00"/>
+      </Waypoint>
+    </Waypoints>
+  </Flightplan>
+</LittleNavmap>

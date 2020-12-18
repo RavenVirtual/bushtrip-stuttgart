@@ -1,0 +1,580 @@
+
+[Main]
+MissionType=BushTrip
+MissionLocation=Stuttgart
+Title=TT:raven-bushtrip-badenwuerttemberg.Mission.2
+Description=TT:raven-bushtrip-badenwuerttemberg.Mission.3
+AppVersion=10.0.282174
+FlightVersion=1
+
+[Briefing]
+BriefingText=TT:raven-bushtrip-badenwuerttemberg.Mission.1
+BriefingImage0="./Images/EDTQ.jpg"
+BriefingImage1="./Images/ED36.jpg"
+BriefingImage2="./Images/EDNO.jpg"
+BriefingImage3="./Images/EDMU.jpg"
+BriefingImage4="./Images/EDJA.jpg"
+BriefingImage5="./Images/EDMK.jpg"
+BriefingImage6="./Images/EDNY.jpg"
+BriefingImage7="./Images/EDTZ.jpg"
+BriefingImage8="./Images/ED33.jpg"
+BriefingImage9="./Images/ED10.jpg"
+BriefingImage10="./Images/EDTL.jpg"
+BriefingImage11="./Images/EDSB.jpg"
+BriefingImage12="./Images/EDRY.jpg"
+BriefingImage13="./Images/EDGM.jpg"
+BriefingImage14="./Images/EDDS.jpg"
+
+[Options]
+Sound=True
+Pause=True
+Moonlight=True
+Save=True
+SaveOriginalFlightPlan=True
+TextDisplayPage=0
+SlewDisplayPage=1
+AxisIndicator=Off
+Titles=False
+
+[Sim.0]
+Sim=VL3 Asobo
+SimFile=runway.FLT
+TailNumber=
+AirlineCallSign=
+FlightNumber=
+AppendHeavy=False
+
+[ResourcePath]
+Path=raven-bushtrip-badenwuerttemberg
+
+[ObjectFile]
+File=raven-bushtrip-badenwuerttemberg
+
+[Atc_Menu]
+Visible=False
+
+[Weather]
+UseWeatherFile=False
+UseLiveWeather=False
+WeatherPresetFile=.\WeatherPresets\FewClouds.WPR
+WeatherCanBeLive=False
+
+[Assistance]
+Preset=ASSISTANCE_PRESET_BUSH_TRIP
+EventTriggersFileCount=1
+EventTriggersFile.0=BushTripEventTriggers
+
+[Departure]
+ICAO=EDDS
+RunwayNumber=25
+RunwayDesignator=NONE
+
+[Loading]
+ImageName=./images/Loading_Screen.jpg
+Tips0=TT:raven-bushtrip-badenwuerttemberg.Mission.4
+Tips1=TT:raven-bushtrip-badenwuerttemberg.Mission.5
+Tips2=TT:raven-bushtrip-badenwuerttemberg.Mission.6
+Tips3=TT:raven-bushtrip-badenwuerttemberg.Mission.7
+Tips4=TT:raven-bushtrip-badenwuerttemberg.Mission.8
+Tips5=TT:raven-bushtrip-badenwuerttemberg.Mission.9
+
+[Panels]
+Panel.On=True
+HUD.On=False
+
+[Window.1]
+Order=255
+Active=True
+Undocked=False
+Maximized=True
+ScreenUniCoords=0, 0, 8192, 4000
+UndocCoords=0, 0, 0, 0
+CurrentCamera={BCA3FDD1-FB83-4BBA-8407-4922A7F0D00C}
+
+[Camera.1.1]
+Guid={B1386D92-4782-4682-A137-738E25D1BAB5}
+Zoom=1
+Translation=0, 0, 0
+Rotation=8, 0, 0
+
+[Camera.1.2]
+Guid={C95EAB58-9E4A-4E2A-A34C-D8D9D948F078}
+Zoom=0.69999998807907104492
+Translation=0, 0, 0
+Rotation=8, 0, 0
+
+[Camera.1.3]
+Guid={195EAB58-9E4A-1E2A-A34C-A8D9D948F078}
+Zoom=0.56999999284744262695
+Translation=0, 0, 0
+Rotation=0, 0, 0
+
+[Camera.1.4]
+Guid={A1FF1FC6-4902-46D4-AFFD-22F64B240235}
+Zoom=0.56999999284744262695
+Translation=0, 0, 0
+Rotation=0, 0, 0
+
+[Camera.1.5]
+Guid={E9FF00BD-8D7B-4934-8855-364A432149A6}
+Zoom=0.31000000238418579102
+Translation=0, 0, 0
+Rotation=0, 0, 0
+
+[Camera.1.6]
+Guid={64D6C8BC-406A-4B73-8441-7393A4A335B4}
+Zoom=0.31000000238418579102
+Translation=0, 0, 0
+Rotation=0, 0, 0
+
+[Camera.1.7]
+Guid={A31C5FA5-4508-4C1A-84A7-6F46C68FBB4A}
+Zoom=0.31000000238418579102
+Translation=0, 0, 0
+Rotation=0, 0, 0
+
+[Camera.1.8]
+Guid={3707B27E-DC9F-44A3-8E82-422191F16B72}
+Zoom=0.33000001311302185059
+Translation=0, 0, 0
+Rotation=0, 0, 0
+
+[Camera.1.9]
+Guid={7B23189D-3554-4F63-99E2-F56DC287BD76}
+Zoom=0.33000001311302185059
+Translation=0, 0, 0
+Rotation=0, 0, 0
+
+[Camera.1.10]
+Guid={BCA3FDD1-FB83-4BBA-8407-4922A7F0D00C}
+Zoom=1
+Translation=0, 0, 0
+ChaseDirection=90
+ChaseDistance=28.041599273681640625
+ChaseAltitude=0.91439998149871826172
+
+[Camera.1.11]
+Guid={BCA3FDD1-FB83-4BBA-8407-4922A7F0D00D}
+Zoom=1
+Translation=0, 0, 0
+ChaseDirection=-135
+ChaseDistance=37.5
+ChaseAltitude=0.80000001192092895508
+
+[Camera.1.12]
+Guid={6B79DD49-9B4A-439D-BF40-ACBF157B0BA0}
+Zoom=10
+Translation=0, 0, 0
+Rotation=0, 0, 0
+
+[Camera.1.13]
+Guid={A2849229-938A-448F-8AC6-01EF2291C171}
+Zoom=80.3000030517578125
+Translation=0, 0, 0
+Rotation=0, 0, 0
+
+[Camera.1.14]
+Guid={60BC0819-BD04-4AF6-8954-8FC8AA3545FF}
+Zoom=8
+Translation=0, 0, 0
+Rotation=0, 0, 0
+
+[Camera.1.15]
+Guid={C690EAFD-223A-42D0-99E0-681ADF93BB59}
+Zoom=1
+Translation=0, 0, 0
+Rotation=0, 0, 0
+
+[Camera.1.16]
+Guid={3A09FD6C-D406-4D8F-A5CD-FA4F5E0C12ED}
+Zoom=1
+Translation=0, 0, 0
+Rotation=0, 0, 0
+
+[Camera.1.17]
+Guid={D8D67955-2E9B-4E75-9D8B-8EFFBBFAC64A}
+Zoom=0.75
+Translation=0, 0, 0
+Rotation=0, 0, 0
+
+[Camera.1.18]
+Guid={41F9C308-7FFA-4BE1-8CC1-43336D945791}
+Zoom=1.2999999523162841797
+Translation=0, 0, 0
+Rotation=0, 0, 0
+
+[Camera.1.19]
+Guid={4B06E947-0AC1-465C-B1C7-D7548A5FACE9}
+Zoom=1.2999999523162841797
+Translation=0, 0, 0
+Rotation=0, 0, 0
+
+[Camera.1.20]
+Guid={C46C9BC7-ABD4-401C-A273-087BAAA0922A}
+Zoom=1.2999999523162841797
+Translation=0, 0, 0
+Rotation=0, 0, 0
+
+[Camera.1.21]
+Guid={1C03E395-7B86-4F79-8684-E3154A9EDDA6}
+Zoom=1.2999999523162841797
+Translation=0, 0, 0
+Rotation=0, 0, 0
+
+[Camera.1.22]
+Guid={14AA6A13-7FCC-4F0F-9137-ABEF10DFCBB9}
+Zoom=0.56999999284744262695
+Translation=0, 0, 0
+Rotation=0, 0, 0
+
+[Camera.1.23]
+Guid={EBABF59F-3730-4F2E-A245-74901E9F8ED6}
+Zoom=0.40000000596046447754
+Translation=0, 0, 0
+Rotation=0, 0, 0
+
+[Camera.1.24]
+Guid={08E673AF-9D5D-449A-86CB-84A55649A650}
+Zoom=0.56999999284744262695
+Translation=0, 0, 0
+Rotation=0, 0, 0
+
+[Camera.1.25]
+Guid={182C26E7-0D2D-4995-B776-53A96D125521}
+Zoom=0.31083399057388305664
+Translation=0, 0, 0
+Rotation=0, 0, 0
+
+[Camera.1.26]
+Guid={A32BC57C-6208-4FA7-98D0-09F3425F5F0E}
+Zoom=0.56999999284744262695
+Translation=0, 0, 0
+Rotation=0, 0, 0
+
+[ATC_AgentManager]
+NumberofAgents=0
+
+[ATC_Aircraft.0]
+ActiveFlightPlan=True
+RequestedFlightPlan=False
+AcState=ACSTATE_REQUEST_TAXI_CLEARANCE_OUT_VFR_ATIS
+Waypoint.0=, EDDS, , EDDS, A, N48° 41' 23.56",E9° 13' 19.07", +001276.00, 
+Waypoint.1=!A, POI1, , POI1, U, N48° 41' 30.22",E9° 13' 55.25", +001412.46, 
+Waypoint.2=!A, POI2, , POI2, U, N48° 43' 30.82",E9° 4' 13.04", +003000.00, 
+Waypoint.3=!A, POI3, , POI3, U, N48° 44' 51.31",E9° 6' 43.28", +003000.00, 
+Waypoint.4=!A, POI4, , POI4, U, N48° 47' 2.47",E9° 4' 51.33", +003000.00, 
+Waypoint.5=!A, POI5, , POI5, U, N48° 51' 49.31",E9° 10' 25.66", +003000.00, 
+Waypoint.6=, EDTQ, , EDTQ, A, N48° 51' 50.74",E9° 13' 26.67", +003000.00, 
+Waypoint.7=!B, POI6, , POI6, U, N48° 52' 25.08",E9° 16' 26.36", +003000.00, 
+Waypoint.8=!B, POI7, , POI7, U, N48° 49' 11.11",E9° 20' 22.42", +003000.00, 
+Waypoint.9=!B, POI8, , POI8, U, N48° 48' 15.75",E9° 34' 29.67", +003000.00, 
+Waypoint.10=!B, POI9, , POI9, U, N48° 47' 13.88",E9° 45' 35.24", +003000.00, 
+Waypoint.11=, ED36, , ED36, A, N48° 44' 46.54",E9° 51' 40.79", +003000.00, 
+Waypoint.12=!C, POI10, , POI10, U, N48° 49' 19.65",E9° 54' 11.87", +003000.00, 
+Waypoint.13=!C, POI11, , POI11, U, N48° 49' 20.87",E9° 59' 47.43", +003000.00, 
+Waypoint.14=!C, POI12, , POI12, U, N48° 49' 59.10",E10° 5' 33.02", +003000.00, 
+Waypoint.15=!C, POI13, , POI13, U, N48° 52' 49.89",E10° 7' 37.71", +003000.00, 
+Waypoint.16=!C, POI14, , POI14, U, N48° 53' 6.94",E10° 9' 57.52", +003000.00, 
+Waypoint.17=!C, POI15, , POI15, U, N48° 51' 48.91",E10° 20' 48.81", +003000.00, 
+Waypoint.18=, EDNO, , EDNO, A, N48° 52' 16.14",E10° 30' 21.99", +003000.00, 
+Waypoint.19=!D, POI16, , POI16, U, N48° 47' 4.52",E10° 41' 27.45", +003000.00, 
+Waypoint.20=!D, POI17, , POI17, U, N48° 41' 47.04",E10° 45' 32.17", +003000.00, 
+Waypoint.21=!D, POI18, , POI18, U, N48° 33' 15.63",E10° 24' 16.38", +003000.00, 
+Waypoint.22=, EDMU, , EDMU, A, N48° 34' 9.88",E10° 21' 28.56", +003000.00, 
+Waypoint.23=!E, POI19, , POI19, U, N48° 27' 38.26",E10° 16' 48.34", +003000.00, 
+Waypoint.24=!E, POI20, , POI20, U, N48° 25' 27.90",E10° 18' 6.20", +003000.00, 
+Waypoint.25=!E, POI21, , POI21, U, N48° 13' 29.65",E10° 17' 46.12", +003000.00, 
+Waypoint.26=!E, POI22, , POI22, U, N48° 12' 3.16",E10° 7' 34.63", +003000.00, 
+Waypoint.27=!E, POI23, , POI23, U, N47° 59' 55.15",E10° 8' 57.75", +003000.00, 
+Waypoint.28=, EDJA, , EDJA, A, N47° 59' 19.71",E10° 14' 22.15", +003000.00, 
+Waypoint.29=!F, POI24, , POI24, U, N47° 57' 41.12",E10° 11' 6.90", +003000.00, 
+Waypoint.30=!F, POI25, , POI25, U, N47° 44' 24.47",E10° 20' 28.65", +003000.00, 
+Waypoint.31=, EDMK, , EDMK, A, N47° 41' 29.85",E10° 20' 18.27", +003000.00, 
+Waypoint.32=!G, POI26, , POI26, U, N47° 40' 47.82",E10° 18' 13.93", +003000.00, 
+Waypoint.33=!G, POI27, , POI27, U, N47° 34' 28.82",E10° 14' 56.48", +003000.00, 
+Waypoint.34=!G, POI28, , POI28, U, N47° 34' 15.49",E10° 10' 21.79", +003000.00, 
+Waypoint.35=!G, POI29, , POI29, U, N47° 32' 54.57",E10° 2' 12.35", +003000.00, 
+Waypoint.36=!G, POI30, , POI30, U, N47° 28' 32.03",E9° 51' 17.91", +003000.00, 
+Waypoint.37=!G, POI31, , POI31, U, N47° 30' 2.65",E9° 41' 42.88", +003000.00, 
+Waypoint.38=!G, POI32, , POI32, U, N47° 32' 47.07",E9° 41' 2.40", +003000.00, 
+Waypoint.39=!G, POI33, , POI33, U, N47° 38' 58.78",E9° 29' 45.09", +003000.00, 
+Waypoint.40=, EDNY, , EDNY, A, N47° 40' 16.77",E9° 30' 41.36", +003000.00, 
+Waypoint.41=!H, POI34, , POI34, U, N47° 42' 21.84",E9° 11' 42.24", +003000.00, 
+Waypoint.42=, EDTZ, , EDTZ, A, N47° 40' 53.00",E9° 8' 21.95", +003000.00, 
+Waypoint.43=!I, POI35, , POI35, U, N47° 41' 36.08",E9° 3' 35.11", +003000.00, 
+Waypoint.44=!I, POI36, , POI36, U, N47° 38' 53.78",E8° 53' 28.26", +003000.00, 
+Waypoint.45=!I, POI37, , POI37, U, N47° 41' 37.74",E8° 37' 46.45", +003000.00, 
+Waypoint.46=!I, POI38, , POI38, U, N47° 38' 37.96",E8° 36' 18.70", +003000.00, 
+Waypoint.47=, ED33, , ED33, A, N47° 39' 3.11",E8° 23' 12.03", +003000.00, 
+Waypoint.48=!J, POI39, , POI39, U, N47° 37' 57.16",E8° 15' 48.92", +003000.00, 
+Waypoint.49=!J, POI40, , POI40, U, N47° 49' 3.95",E8° 8' 59.81", +003000.00, 
+Waypoint.50=!J, POI41, , POI41, U, N47° 52' 6.45",E8° 0' 39.25", +003000.00, 
+Waypoint.51=, ED10, , ED10, A, N47° 57' 17.07",E7° 57' 21.73", +003000.00, 
+Waypoint.52=!K, POI42, , POI42, U, N47° 59' 51.84",E7° 49' 26.89", +003000.00, 
+Waypoint.53=!K, POI43, , POI43, U, N48° 15' 50.40",E7° 43' 17.33", +003000.00, 
+Waypoint.54=, EDTL, , EDTL, A, N48° 22' 9.29",E7° 49' 39.84", +003000.00, 
+Waypoint.55=!L, POI44, , POI44, U, N48° 27' 16.95",E7° 45' 22.16", +003000.00, 
+Waypoint.56=!L, POI45, , POI45, U, N48° 34' 58.68",E7° 47' 45.53", +003000.00, 
+Waypoint.57=!L, POI46, , POI46, U, N48° 44' 52.94",E7° 58' 13.40", +003000.00, 
+Waypoint.58=, EDSB, , EDSB, A, N48° 46' 45.70",E8° 4' 49.69", +003000.00, 
+Waypoint.59=!M, POI47, , POI47, U, N48° 47' 30.98",E8° 9' 43.07", +003000.00, 
+Waypoint.60=!M, POI48, , POI48, U, N48° 58' 17.95",E8° 26' 23.74", +003000.00, 
+Waypoint.61=!M, POI49, , POI49, U, N49° 5' 11.26",E8° 20' 22.22", +003000.00, 
+Waypoint.62=!M, POI50, , POI50, U, N49° 15' 14.09",E8° 25' 22.40", +003000.00, 
+Waypoint.63=, EDRY, , EDRY, A, N49° 18' 8.76",E8° 27' 8.35", +003000.00, 
+Waypoint.64=!N, POI51, , POI51, U, N49° 16' 52.49",E8° 37' 20.50", +003000.00, 
+Waypoint.65=!N, POI52, , POI52, U, N49° 14' 20.83",E8° 53' 49.27", +003000.00, 
+Waypoint.66=, EDGM, , EDGM, A, N49° 23' 57.74",E9° 7' 24.99", +003000.00, 
+Waypoint.67=!O, POI53, , POI53, U, N49° 10' 54.13",E9° 13' 28.37", +003000.00, 
+Waypoint.68=!O, POI54, , POI54, U, N49° 0' 14.75",E9° 9' 12.53", +003000.00, 
+Waypoint.69=!O, POI55, , POI55, U, N48° 50' 9.69",E9° 12' 56.24", +003000.00, 
+Waypoint.70=!O, POI56, , POI56, U, N48° 45' 42.65",E9° 15' 33.21", +002782.69, 
+Waypoint.71=, EDDS, , EDDS, A, N48° 41' 23.56",E9° 13' 19.07", +001276.00, 
+NumberofWaypoints=72
+
+ClearanceFlags=88a
+CtCur=CLEARANCE_NONE
+WaypointNext=1
+AltCleared=-1
+HdgAssigned=-1
+SquawkAssigned=4608
+LandingSequence=LANDING_NONE
+DepartureRequest=DEPARTURE_VFR_REQUEST_NONE
+ParkingRequest=PARKING_NAME_NONE
+ParkingTypeRequest=PARKING_TYPE_NONE
+PatternLeg=PATTERN_LEG_NONE
+ApproachIndex=-1
+ApproachTransitionIndex=-1
+ApproachRequestIndex=-1
+ApproachTransitionRequestIndex=-1
+RunwayIndex=-1
+RunwayRequestIndex=-1
+ParkingIndex=-1
+FlightFollowing=FLIGHT_FOLLOWING_NO
+AirspaceTransition=AIRSPACE_TRANSITION_NONE
+BVAirspaceTransition=BV_TYPE_NONE
+BVAirspaceTransitionReq=BV_TYPE_NONE
+TakeoffSequence=TAKEOFF_SEQUENCE_NONE
+LandingSequenceNumber=-1
+TaxiRouteCurrent=-1
+CruisingAltitude=1000
+RequestedCruisingAltitude=-1
+ExpectedAltitude=-1
+AircraftSignature=1,0
+
+[ATC_ActiveFlightPlan.0]
+Title=raven-bushtrip-badenwuerttemberg
+Description=Stuttgart to Stuttgart
+type=VFR
+routetype=0
+cruising_altitude=1000
+departure_id=EDDS, N48°41'23.56",E9°13'19.07",+1276.00
+departure_position=
+destination_id=EDDS, N48°41'23.56",E9°13'19.07",+1276.00
+departure_name=EDDS
+destination_name=EDDS
+Waypoint.0=, EDDS, , EDDS, A, N48° 41' 23.56",E9° 13' 19.07", +001276.00, 
+Waypoint.1=!A, POI1, , POI1, U, N48° 41' 30.22",E9° 13' 55.25", +001412.46, 
+Waypoint.2=!A, POI2, , POI2, U, N48° 43' 30.82",E9° 4' 13.04", +003000.00, 
+Waypoint.3=!A, POI3, , POI3, U, N48° 44' 51.31",E9° 6' 43.28", +003000.00, 
+Waypoint.4=!A, POI4, , POI4, U, N48° 47' 2.47",E9° 4' 51.33", +003000.00, 
+Waypoint.5=!A, POI5, , POI5, U, N48° 51' 49.31",E9° 10' 25.66", +003000.00, 
+Waypoint.6=, EDTQ, , EDTQ, A, N48° 51' 50.74",E9° 13' 26.67", +003000.00, 
+Waypoint.7=!B, POI6, , POI6, U, N48° 52' 25.08",E9° 16' 26.36", +003000.00, 
+Waypoint.8=!B, POI7, , POI7, U, N48° 49' 11.11",E9° 20' 22.42", +003000.00, 
+Waypoint.9=!B, POI8, , POI8, U, N48° 48' 15.75",E9° 34' 29.67", +003000.00, 
+Waypoint.10=!B, POI9, , POI9, U, N48° 47' 13.88",E9° 45' 35.24", +003000.00, 
+Waypoint.11=, ED36, , ED36, A, N48° 44' 46.54",E9° 51' 40.79", +003000.00, 
+Waypoint.12=!C, POI10, , POI10, U, N48° 49' 19.65",E9° 54' 11.87", +003000.00, 
+Waypoint.13=!C, POI11, , POI11, U, N48° 49' 20.87",E9° 59' 47.43", +003000.00, 
+Waypoint.14=!C, POI12, , POI12, U, N48° 49' 59.10",E10° 5' 33.02", +003000.00, 
+Waypoint.15=!C, POI13, , POI13, U, N48° 52' 49.89",E10° 7' 37.71", +003000.00, 
+Waypoint.16=!C, POI14, , POI14, U, N48° 53' 6.94",E10° 9' 57.52", +003000.00, 
+Waypoint.17=!C, POI15, , POI15, U, N48° 51' 48.91",E10° 20' 48.81", +003000.00, 
+Waypoint.18=, EDNO, , EDNO, A, N48° 52' 16.14",E10° 30' 21.99", +003000.00, 
+Waypoint.19=!D, POI16, , POI16, U, N48° 47' 4.52",E10° 41' 27.45", +003000.00, 
+Waypoint.20=!D, POI17, , POI17, U, N48° 41' 47.04",E10° 45' 32.17", +003000.00, 
+Waypoint.21=!D, POI18, , POI18, U, N48° 33' 15.63",E10° 24' 16.38", +003000.00, 
+Waypoint.22=, EDMU, , EDMU, A, N48° 34' 9.88",E10° 21' 28.56", +003000.00, 
+Waypoint.23=!E, POI19, , POI19, U, N48° 27' 38.26",E10° 16' 48.34", +003000.00, 
+Waypoint.24=!E, POI20, , POI20, U, N48° 25' 27.90",E10° 18' 6.20", +003000.00, 
+Waypoint.25=!E, POI21, , POI21, U, N48° 13' 29.65",E10° 17' 46.12", +003000.00, 
+Waypoint.26=!E, POI22, , POI22, U, N48° 12' 3.16",E10° 7' 34.63", +003000.00, 
+Waypoint.27=!E, POI23, , POI23, U, N47° 59' 55.15",E10° 8' 57.75", +003000.00, 
+Waypoint.28=, EDJA, , EDJA, A, N47° 59' 19.71",E10° 14' 22.15", +003000.00, 
+Waypoint.29=!F, POI24, , POI24, U, N47° 57' 41.12",E10° 11' 6.90", +003000.00, 
+Waypoint.30=!F, POI25, , POI25, U, N47° 44' 24.47",E10° 20' 28.65", +003000.00, 
+Waypoint.31=, EDMK, , EDMK, A, N47° 41' 29.85",E10° 20' 18.27", +003000.00, 
+Waypoint.32=!G, POI26, , POI26, U, N47° 40' 47.82",E10° 18' 13.93", +003000.00, 
+Waypoint.33=!G, POI27, , POI27, U, N47° 34' 28.82",E10° 14' 56.48", +003000.00, 
+Waypoint.34=!G, POI28, , POI28, U, N47° 34' 15.49",E10° 10' 21.79", +003000.00, 
+Waypoint.35=!G, POI29, , POI29, U, N47° 32' 54.57",E10° 2' 12.35", +003000.00, 
+Waypoint.36=!G, POI30, , POI30, U, N47° 28' 32.03",E9° 51' 17.91", +003000.00, 
+Waypoint.37=!G, POI31, , POI31, U, N47° 30' 2.65",E9° 41' 42.88", +003000.00, 
+Waypoint.38=!G, POI32, , POI32, U, N47° 32' 47.07",E9° 41' 2.40", +003000.00, 
+Waypoint.39=!G, POI33, , POI33, U, N47° 38' 58.78",E9° 29' 45.09", +003000.00, 
+Waypoint.40=, EDNY, , EDNY, A, N47° 40' 16.77",E9° 30' 41.36", +003000.00, 
+Waypoint.41=!H, POI34, , POI34, U, N47° 42' 21.84",E9° 11' 42.24", +003000.00, 
+Waypoint.42=, EDTZ, , EDTZ, A, N47° 40' 53.00",E9° 8' 21.95", +003000.00, 
+Waypoint.43=!I, POI35, , POI35, U, N47° 41' 36.08",E9° 3' 35.11", +003000.00, 
+Waypoint.44=!I, POI36, , POI36, U, N47° 38' 53.78",E8° 53' 28.26", +003000.00, 
+Waypoint.45=!I, POI37, , POI37, U, N47° 41' 37.74",E8° 37' 46.45", +003000.00, 
+Waypoint.46=!I, POI38, , POI38, U, N47° 38' 37.96",E8° 36' 18.70", +003000.00, 
+Waypoint.47=, ED33, , ED33, A, N47° 39' 3.11",E8° 23' 12.03", +003000.00, 
+Waypoint.48=!J, POI39, , POI39, U, N47° 37' 57.16",E8° 15' 48.92", +003000.00, 
+Waypoint.49=!J, POI40, , POI40, U, N47° 49' 3.95",E8° 8' 59.81", +003000.00, 
+Waypoint.50=!J, POI41, , POI41, U, N47° 52' 6.45",E8° 0' 39.25", +003000.00, 
+Waypoint.51=, ED10, , ED10, A, N47° 57' 17.07",E7° 57' 21.73", +003000.00, 
+Waypoint.52=!K, POI42, , POI42, U, N47° 59' 51.84",E7° 49' 26.89", +003000.00, 
+Waypoint.53=!K, POI43, , POI43, U, N48° 15' 50.40",E7° 43' 17.33", +003000.00, 
+Waypoint.54=, EDTL, , EDTL, A, N48° 22' 9.29",E7° 49' 39.84", +003000.00, 
+Waypoint.55=!L, POI44, , POI44, U, N48° 27' 16.95",E7° 45' 22.16", +003000.00, 
+Waypoint.56=!L, POI45, , POI45, U, N48° 34' 58.68",E7° 47' 45.53", +003000.00, 
+Waypoint.57=!L, POI46, , POI46, U, N48° 44' 52.94",E7° 58' 13.40", +003000.00, 
+Waypoint.58=, EDSB, , EDSB, A, N48° 46' 45.70",E8° 4' 49.69", +003000.00, 
+Waypoint.59=!M, POI47, , POI47, U, N48° 47' 30.98",E8° 9' 43.07", +003000.00, 
+Waypoint.60=!M, POI48, , POI48, U, N48° 58' 17.95",E8° 26' 23.74", +003000.00, 
+Waypoint.61=!M, POI49, , POI49, U, N49° 5' 11.26",E8° 20' 22.22", +003000.00, 
+Waypoint.62=!M, POI50, , POI50, U, N49° 15' 14.09",E8° 25' 22.40", +003000.00, 
+Waypoint.63=, EDRY, , EDRY, A, N49° 18' 8.76",E8° 27' 8.35", +003000.00, 
+Waypoint.64=!N, POI51, , POI51, U, N49° 16' 52.49",E8° 37' 20.50", +003000.00, 
+Waypoint.65=!N, POI52, , POI52, U, N49° 14' 20.83",E8° 53' 49.27", +003000.00, 
+Waypoint.66=, EDGM, , EDGM, A, N49° 23' 57.74",E9° 7' 24.99", +003000.00, 
+Waypoint.67=!O, POI53, , POI53, U, N49° 10' 54.13",E9° 13' 28.37", +003000.00, 
+Waypoint.68=!O, POI54, , POI54, U, N49° 0' 14.75",E9° 9' 12.53", +003000.00, 
+Waypoint.69=!O, POI55, , POI55, U, N48° 50' 9.69",E9° 12' 56.24", +003000.00, 
+Waypoint.70=!O, POI56, , POI56, U, N48° 45' 42.65",E9° 15' 33.21", +002782.69, 
+Waypoint.71=, EDDS, , EDDS, A, N48° 41' 23.56",E9° 13' 19.07", +001276.00, 
+
+[ATC_AircraftManager]
+NumberofAircraft=1
+
+[ATC_MessageSystem]
+FrequencyNodes=0
+
+[GPS_Engine]
+Filename=raven-bushtrip-badenwuerttemberg
+position=N48°41'23.56",E9°13'19.07",+1276.00
+Time=-1
+TimeWP=22020
+ArriveTime=47346
+CountWP=0
+NextWP=0
+PlaneStarted=False
+CountFP=0
+
+[DateTimeSeason]
+Season=Summer
+Year=2018
+Day=167
+Hours=9
+Minutes=35
+Seconds=0
+
+[Panel.1]
+ScreenUniCoords=0, 0, 0, 0
+UndocCoords=0, 0, 0, 0
+Visible=False
+Undocked=False
+HiddenOn=False
+ID=0
+ViewsOn=1
+
+[Panel.2]
+ScreenUniCoords=0, 0, 0, 0
+UndocCoords=0, 0, 0, 0
+Visible=False
+Undocked=False
+HiddenOn=False
+ID=50
+ViewsOn=0
+
+[Panel.3]
+ScreenUniCoords=0, 0, 0, 0
+UndocCoords=0, 0, 0, 0
+Visible=False
+Undocked=False
+HiddenOn=False
+ID=225
+ViewsOn=0
+
+[Panel.4]
+ScreenUniCoords=0, 0, 0, 0
+UndocCoords=0, 0, 0, 0
+Visible=False
+Undocked=False
+HiddenOn=False
+ID=1
+ViewsOn=0
+
+[Panel.5]
+ScreenUniCoords=0, 0, 0, 0
+UndocCoords=0, 0, 0, 0
+Visible=False
+Undocked=False
+HiddenOn=False
+ID=2
+ViewsOn=0
+
+[Panel.6]
+ScreenUniCoords=0, 0, 0, 0
+UndocCoords=0, 0, 0, 0
+Visible=False
+Undocked=False
+HiddenOn=False
+ID=20000
+ViewsOn=1
+
+[SimVars.0]
+Latitude=N48°41'30.19"
+Longitude=E9°12'48.01"
+Altitude=+1276.00
+Pitch=0
+Bank=0
+Heading=70
+PVelBodyAxis=0
+BVelBodyAxis=0
+HVelBodyAxis=0
+XVelBodyAxis=0
+YVelBodyAxis=0
+ZVelBodyAxis=0
+SimOnGround=True
+OnPlatformHeight=-9999999999
+
+[Slew.0]
+Active=False
+
+[Freeze.0]
+Location=False
+Altitude=False
+Attitude=False
+
+
+[Fuel.0]
+TankSelector=All
+TankSelector1=All
+Center=100
+LeftMain=90
+RightMain=90
+LeftAux=100
+RightAux=100
+LeftTip=100
+RightTip=100
+Center 2=100
+Center 3=100
+External 1=100
+External 2=100
+
+
+[Payload.0]
+PayloadList=  85.0,  85.0,   0.0,   0.0,   0.0
+
+
+
+[SimScheduler]
+SimSpeed=001.00
+SimTime=596.82995962224549658
+
+
+[Multiplayer]
+Status=0

@@ -1,0 +1,1372 @@
+{
+  "LocalisationFile": {
+    "Version": 2,
+    "UUID": "e7f9380a-a43e-4a3f-b82e-135f45f8ce39",
+    "Languages": [
+      "en-US",
+      "de-DE"
+    ],
+    "Strings": {
+      "raven-bushtrip-badenwuerttemberg.Mission.1": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568001",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Willkommen auf den Fildern! Das wunderbare Wetter ist perfekt um das Privatflugzeug aus dem Hangar zu holen. Wir starten zu einem Rundflug von und nach Stuttgart in 15 Legs."
+          },
+          "de-DE": {
+            "Text": "Willkommen auf den Fildern! Das wunderbare Wetter ist perfekt um das Privatflugzeug aus dem Hangar zu holen. Wir starten zu einem Rundflug von und nach Stuttgart in 15 Legs."
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.2": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568002",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Rund um Baden-Wuerttemberg"
+          },
+          "de-DE": {
+            "Text": "Rund um Baden-Wuerttemberg"
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.3": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568003",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "von und nach Stuttgart"
+          },
+          "de-DE": {
+            "Text": "von und nach Stuttgart"
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.4": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568004",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "What goes up must come down. Nonder kommet se aelle."
+          },
+          "de-DE": {
+            "Text": "What goes up must come down. Nonder kommet se älle."
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.5": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568005",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Please take time for a briefing before starting. Vorm Abheba gschwind saga was gohd."
+          },
+          "de-DE": {
+            "Text": "Please take time for a briefing before starting. Vorm Abheba gschwind saga was gohd."
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.6": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568006",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Every landing you can walk away from is a good landing. If you can use the plane again it was a great landing."
+          },
+          "de-DE": {
+            "Text": "Every landing you can walk away from is a good landing. If you can use the plane again it was a great landing."
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.7": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568007",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "We provided you some pictures in the leg descriptions. Mir hen dir n paar Bildla in dia Beschreibung neigwurschdelt."
+          },
+          "de-DE": {
+            "Text": "We provided you some pictures in the leg descriptions. Mir hen dir n paar Bildla in dia Beschreibung neigwurschdelt."
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.8": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568008",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Do not force a landing, it might be better to fly a traffic pattern for a save landing."
+          },
+          "de-DE": {
+            "Text": "Do not force a landing, it might be better to fly a traffic pattern for a save landing."
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.9": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568009",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Feel free to provide us some feedback. Du kannsch uns saga was bassierd isch."
+          },
+          "de-DE": {
+            "Text": "Feel free to provide us some feedback. Du kannsch uns saga was bassierd isch."
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.10": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568010",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Du startest auf dem GAT, dem Parkplatz der allgemeinen Luftfahrt. Rolle mit deinem Flieger nach links, wenn du das GAT verlässt und folge dem Rollweg N bis zum Abflugspunkt C. Beachte dazu die Beschilderung am Rande des Rollwegs. Gestartet wird dann anschließend auf der Piste 25 in Richtung Westen."
+          },
+          "de-DE": {
+            "Text": "Du startest auf dem GAT, dem Parkplatz der allgemeinen Luftfahrt. Rolle mit deinem Flieger nach links, wenn du das GAT verlässt und folge dem Rollweg N bis zum Abflugspunkt C. Beachte dazu die Beschilderung am Rande des Rollwegs. Gestartet wird dann anschließend auf der Piste 25 in Richtung Westen."
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.11": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568011",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Rechts des Flughafens verläuft die Autobahn A8. Folge der Autobahn nach Westen für circa 5 Meilen bis zum Stuttgarter Kreuz."
+          },
+          "de-DE": {
+            "Text": "Rechts des Flughafens verläuft die Autobahn A8. Folge der Autobahn nach Westen für circa 5 Meilen bis zum Stuttgarter Kreuz."
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.12": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568012",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Biege am Stuttgarter Kreuz scharf nach rechts in Richtung Nord-Osten ab, bis du über die Universität Stuttgart fliegst (siehe Bild)."
+          },
+          "de-DE": {
+            "Text": "Biege am Stuttgarter Kreuz scharf nach rechts in Richtung Nord-Osten ab, bis du über die Universität Stuttgart fliegst (siehe Bild)."
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.13": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568013",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Über dem Gelände der Universität drehst du nach Norden und überfliegst den Bärenschlosspark mit seinen Seen. Wenn du unter dir auf eine Straße durch den Wald triffst, folge ihr nach links in Richtung Nord-Nordwest bis zum Schloss Solitude."
+          },
+          "de-DE": {
+            "Text": "Über dem Gelände der Universität drehst du nach Norden und überfliegst den Bärenschlosspark mit seinen Seen. Wenn du unter dir auf eine Straße durch den Wald triffst, folge ihr nach links in Richtung Nord-Nordwest bis zum Schloss Solitude."
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.14": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568014",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Von Schloss Solitude führt eine Schneise (und später dann eine Straße) in direkter Linie zum Schloss in Ludwigsburg. Folge dieser gut sichtbaren Linie in der Landschaft."
+          },
+          "de-DE": {
+            "Text": "Von Schloss Solitude führt eine Schneise (und später dann eine Straße) in direkter Linie zum Schloss in Ludwigsburg. Folge dieser gut sichtbaren Linie in der Landschaft."
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.15": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568015",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Hinter einem Wäldchen kannst du den Rangierbahnhof Kornwestheim rechts der Linie erkennen. Wenn ungefähr die Mitte des Rangierbahnhofs rechts von dir liegt, drehst du um etwa 70 Grad nach rechts. Direkt neben dem Golfplatz Neckartal liegt dein Etappenziel Pattonville."
+          },
+          "de-DE": {
+            "Text": "Hinter einem Wäldchen kannst du den Rangierbahnhof Kornwestheim rechts der Linie erkennen. Wenn ungefähr die Mitte des Rangierbahnhofs rechts von dir liegt, drehst du um etwa 70 Grad nach rechts. Direkt neben dem Golfplatz Neckartal liegt dein Etappenziel Pattonville."
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.16": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568016",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Nach dem Abheben in Pattonville fliegst du nach Osten und folgst dem Neckar für ein kurzes Stück nach Norden bis zur Remsmündung in Remseck."
+          },
+          "de-DE": {
+            "Text": "Nach dem Abheben in Pattonville fliegst du nach Osten und folgst dem Neckar für ein kurzes Stück nach Norden bis zur Remsmündung in Remseck."
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.17": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568017",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "An der Remsmündung fliegst du eine scharfe Rechtskurve und folgst dem gewundenen und von Bäumen gesäumten Verlauf der Rems nach Waiblingen Beinstein."
+          },
+          "de-DE": {
+            "Text": "An der Remsmündung fliegst du eine scharfe Rechtskurve und folgst dem gewundenen und von Bäumen gesäumten Verlauf der Rems nach Waiblingen Beinstein."
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.18": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568018",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Die Rems führt dich in das von Weinbergen gesäumte Remstal. Nachdem du in Waiblingen den talauensee überfolgen hast, erreichst du kurz darauf Beinstein. Dort wird nun auch die Bundesstraße 29 zu deinem Begleiter. Folge Rems und B29 in das Remstal hinein."
+          },
+          "de-DE": {
+            "Text": "Die Rems führt dich in das von Weinbergen gesäumte Remstal. Nachdem du in Waiblingen den talauensee überfolgen hast, erreichst du kurz darauf Beinstein. Dort wird nun auch die Bundesstraße 29 zu deinem Begleiter. Folge Rems und B29 in das Remstal hinein."
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.19": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568019",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Bei Schorndorf macht die B29 einen großen Bogen an der linken Talseite. Überfliege die Seen des Landschaftsschutzgebietes \"Morgensand und Seelachen\" bei Urbach und folge der Rems weiter durch das enger werdende Tal bis nach Schwäbisch Gmünd (siehe Bild)."
+          },
+          "de-DE": {
+            "Text": "Bei Schorndorf macht die B29 einen großen Bogen an der linken Talseite. Überfliege die Seen des Landschaftsschutzgebietes \"Morgensand und Seelachen\" bei Urbach und folge der Rems weiter durch das enger werdende Tal bis nach Schwäbisch Gmünd (siehe Bild)."
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.20": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568020",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "In Schwäbisch Gmünd verschwindet die B29 in den Einhorntunnel, die Rems schlängelt sich durch ein renaturiertes Flussbett durch das Stadtgebiet. Verlasse nun das Remstal und drehe nach rechts in Richtung Süd-Osten ab. Kurze Zeit später erreichst du das Etappenziel auf dem Hornberg."
+          },
+          "de-DE": {
+            "Text": "In Schwäbisch Gmünd verschwindet die B29 in den Einhorntunnel, die Rems schlängelt sich durch ein renaturiertes Flussbett durch das Stadtgebiet. Verlasse nun das Remstal und drehe nach rechts in Richtung Süd-Osten ab. Kurze Zeit später erreichst du das Etappenziel auf dem Hornberg."
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.21": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568021",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Nach dem Start auf dem Hornberg fliegst du zurück nach Norden, bis du wieder die Rems unter dir hast. Folge der Rems weiter in Richting Osten."
+          },
+          "de-DE": {
+            "Text": "Nach dem Start auf dem Hornberg fliegst du zurück nach Norden, bis du wieder die Rems unter dir hast. Folge der Rems weiter in Richting Osten."
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.22": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568022",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Folge der Rems weiter nach Osten bis sie sich kurz vor Essingen teilt und der größere Arm nach rechts aus dem Tal hinaus verschwindet."
+          },
+          "de-DE": {
+            "Text": "Folge der Rems weiter nach Osten bis sie sich kurz vor Essingen teilt und der größere Arm nach rechts aus dem Tal hinaus verschwindet."
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.23": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568023",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Folge weiter dem Tal, bis du die große Kreisstadt Aalen erreichst."
+          },
+          "de-DE": {
+            "Text": "Folge weiter dem Tal, bis du die große Kreisstadt Aalen erreichst."
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.24": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568024",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Über Aalen drehst du nach links und folgst der großen Straße und Bahnlinie in Richtung Nord-Nordost."
+          },
+          "de-DE": {
+            "Text": "Über Aalen drehst du nach links und folgst der großen Straße und Bahnlinie in Richtung Nord-Nordost."
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.25": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568025",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Wenn die Bahn sich nach links von der Straße abspaltet, orientiere dich weiter nach rechts und folge der Straße zur Autobahn A7, die von Nord nach Süd die Landschaft teilt."
+          },
+          "de-DE": {
+            "Text": "Wenn die Bahn sich nach links von der Straße abspaltet, orientiere dich weiter nach rechts und folge der Straße zur Autobahn A7, die von Nord nach Süd die Landschaft teilt."
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.26": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568026",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Folge weiter der kleinen Straße unter dir und lass die A7 hinter dir zurück. Rechts von dir kannst du vielleicht auf der Anhöhe Schloss Kapfenburg erkennen. Vor dir taucht die markante Silhouette des Hügels \"Ipf\" auf."
+          },
+          "de-DE": {
+            "Text": "Folge weiter der kleinen Straße unter dir und lass die A7 hinter dir zurück. Rechts von dir kannst du vielleicht auf der Anhöhe Schloss Kapfenburg erkennen. Vor dir taucht die markante Silhouette des Hügels \"Ipf\" auf."
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.27": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568027",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Fliege rechts am Ipf vorbei und folge dem Fluss Eger unter dir nach Nördlingen mit seiner runden Altstadt. Du überfliegst gerade das Nördlinger Ries, einen Meteoritenkrater und hast nun auch Baden-Württemberg verlassen. Im Nord-Osten von Nördlingen liegt der Zielflughafen dieser Etappe. Willkommen im bayrischen Schwaben!"
+          },
+          "de-DE": {
+            "Text": "Fliege rechts am Ipf vorbei und folge dem Fluss Eger unter dir nach Nördlingen mit seiner runden Altstadt. Du überfliegst gerade das Nördlinger Ries, einen Meteoritenkrater und hast nun auch Baden-Württemberg verlassen. Im Nord-Osten von Nördlingen liegt der Zielflughafen dieser Etappe. Willkommen im bayrischen Schwaben!"
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.28": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568028",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Du startest in Nördlingen in Richtung Norden und folgst, wie auch schon beim Anflug, dem Fluss Eger, der direkt neben dem Flugplatz vorbeifließt. Er führt dich in einer Kurve durch das Nördlinger Ries in Richtung Süden."
+          },
+          "de-DE": {
+            "Text": "Du startest in Nördlingen in Richtung Norden und folgst, wie auch schon beim Anflug, dem Fluss Eger, der direkt neben dem Flugplatz vorbeifließt. Er führt dich in einer Kurve durch das Nördlinger Ries in Richtung Süden."
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.29": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568029",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Der Eger mündet am Rande des Ries in die Wörnitz. Diese führt dich stark mäandernd weiter in Richtung Süden, wo sie in die Donau mündet."
+          },
+          "de-DE": {
+            "Text": "Der Eger mündet am Rande des Ries in die Wörnitz. Diese führt dich stark mäandernd weiter in Richtung Süden, wo sie in die Donau mündet."
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.30": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568030",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Wenn du in Donauwörth auf die Donau triffst, folge dem zweitlängsten Fluss stromaufwärts in Richtung Westen, bis du den Stausee Faimingen erreichst (siehe Bild)"
+          },
+          "de-DE": {
+            "Text": "Wenn du in Donauwörth auf die Donau triffst, folge dem zweitlängsten Fluss stromaufwärts in Richtung Westen, bis du den Stausee Faimingen erreichst (siehe Bild)"
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.31": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568031",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Über dem Stausee Faimingen drehst du nach rechts ab und erreichst kurz darauf die Graspiste des Segelflugplatzes Gundelfingen, deinem Etappenziel."
+          },
+          "de-DE": {
+            "Text": "Über dem Stausee Faimingen drehst du nach rechts ab und erreichst kurz darauf die Graspiste des Segelflugplatzes Gundelfingen, deinem Etappenziel."
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.32": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568032",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Nach dem Start in Gundelfingen fliegst du (ungefähr nach Osten) zurück zur Donau und folgst dieser wieder stromabwärts bis du die nächste größere Stadt erreichst, Günzburg."
+          },
+          "de-DE": {
+            "Text": "Nach dem Start in Gundelfingen fliegst du (ungefähr nach Osten) zurück zur Donau und folgst dieser wieder stromabwärts bis du die nächste größere Stadt erreichst, Günzburg."
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.33": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568033",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Wenn du nach der ersten Brücke, die Günzburg mit seinem Gewerbegebiet verbindet, nach Süd-Osten abdrehst, über fliegst du kurz darauf das Legoland Deutschland (siehe Bild)."
+          },
+          "de-DE": {
+            "Text": "Wenn du nach der ersten Brücke, die Günzburg mit seinem Gewerbegebiet verbindet, nach Süd-Osten abdrehst, über fliegst du kurz darauf das Legoland Deutschland (siehe Bild)."
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.34": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568034",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Drehe über dem Legoland nach Süden und folge der Günz, sobald du auf sie triffst weiter nach Süden. Etwa 12 Meilen später erreichst du den Oberrieder Weiher."
+          },
+          "de-DE": {
+            "Text": "Drehe über dem Legoland nach Süden und folge der Günz, sobald du auf sie triffst weiter nach Süden. Etwa 12 Meilen später erreichst du den Oberrieder Weiher."
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.35": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568035",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Über dem Oberrieder Weiher änderst du deinen Kurs nach Westen und fliegst so lange weiter, bis du auf die A7 triffst, die von Norden nach Süden verläufst."
+          },
+          "de-DE": {
+            "Text": "Über dem Oberrieder Weiher änderst du deinen Kurs nach Westen und fliegst so lange weiter, bis du auf die A7 triffst, die von Norden nach Süden verläufst."
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.36": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568036",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Folge der A7 nach Süden, bis zum Memminger Autobahnkreuz, wo sich A7 und A40 kreuzen."
+          },
+          "de-DE": {
+            "Text": "Folge der A7 nach Süden, bis zum Memminger Autobahnkreuz, wo sich A7 und A40 kreuzen."
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.37": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568037",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Drehe über dem Autobahnkreuz Memmingen nach links und folge der A40 für ein sehr kurzes Stück, bis du hinter Memmingen auf deiner rechten Seite den Zielflughafen dieser Etappe erkennst."
+          },
+          "de-DE": {
+            "Text": "Drehe über dem Autobahnkreuz Memmingen nach links und folge der A40 für ein sehr kurzes Stück, bis du hinter Memmingen auf deiner rechten Seite den Zielflughafen dieser Etappe erkennst."
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.38": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568038",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Nach dem Abheben in Memmingen fliegst du in süd-östlicher Richtung, bis du wieder auf die Autobahn A7 triffst."
+          },
+          "de-DE": {
+            "Text": "Nach dem Abheben in Memmingen fliegst du in süd-östlicher Richtung, bis du wieder auf die Autobahn A7 triffst."
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.39": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568039",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Folge der A7 weiter nach links in süd-östlicher Richtung, bis du Kempten erreichst. (siehe Bild)"
+          },
+          "de-DE": {
+            "Text": "Folge der A7 weiter nach links in süd-östlicher Richtung, bis du Kempten erreichst. (siehe Bild)"
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.40": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568040",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Über dem Kleeblatt der Kreuzung A7 und B12 drehst du nach Süden. Hinter Kempten, vor dem Sulzberger See liegt das Etappenziel mit seinen gekreuzten Graspisten."
+          },
+          "de-DE": {
+            "Text": "Über dem Kleeblatt der Kreuzung A7 und B12 drehst du nach Süden. Hinter Kempten, vor dem Sulzberger See liegt das Etappenziel mit seinen gekreuzten Graspisten."
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.41": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568041",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Fliege nach dem Abheben in Richtung Ost-Südost, bis du unter dir die B19 nach Süden verlaufen sehen kannst."
+          },
+          "de-DE": {
+            "Text": "Fliege nach dem Abheben in Richtung Ost-Südost, bis du unter dir die B19 nach Süden verlaufen sehen kannst."
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.42": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568042",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Folge der B19 bis zum Ortsanfang von Immenstadt im Allgäu (siehe Bild)"
+          },
+          "de-DE": {
+            "Text": "Folge der B19 bis zum Ortsanfang von Immenstadt im Allgäu (siehe Bild)"
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.43": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568043",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Drehe mit deinem Flieger nach rechts ab und fliege über den Großen Alpsee."
+          },
+          "de-DE": {
+            "Text": "Drehe mit deinem Flieger nach rechts ab und fliege über den Großen Alpsee."
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.44": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568044",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Folge dem Tal mit seinem Flüsschen unter dir, bis zum Staufner Berg (siehe Bild) an dessen Ende."
+          },
+          "de-DE": {
+            "Text": "Folge dem Tal mit seinem Flüsschen unter dir, bis zum Staufner Berg (siehe Bild) an dessen Ende."
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.45": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568045",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Am Staufner Berg fliegst du links vorbei und folgst dem dahinter in Flugrichtung liegenden Tal weiter."
+          },
+          "de-DE": {
+            "Text": "Am Staufner Berg fliegst du links vorbei und folgst dem dahinter in Flugrichtung liegenden Tal weiter."
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.46": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568046",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Wenn das Tal an einigen Bergen endet, solltest du rechts von dir schon den Bodensee erkennen können. Drehe ebenfalls nach rechts und fliege zur Bregenzer Bucht am Ufer des Bodensees."
+          },
+          "de-DE": {
+            "Text": "Wenn das Tal an einigen Bergen endet, solltest du rechts von dir schon den Bodensee erkennen können. Drehe ebenfalls nach rechts und fliege zur Bregenzer Bucht am Ufer des Bodensees."
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.47": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568047",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Vor dir kannst du sehen wie der Rhein in den Bodensee mündet. Rechts von dir solltest du die Insel Lindau sehen können. Fliege dorthin."
+          },
+          "de-DE": {
+            "Text": "Vor dir kannst du sehen wie der Rhein in den Bodensee mündet. Rechts von dir solltest du die Insel Lindau sehen können. Fliege dorthin."
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.48": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568048",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Drehe über Lindau nach links und folge der Uferlinie bis zur größten Stadt am Nordufer, Friedrichshafen."
+          },
+          "de-DE": {
+            "Text": "Drehe über Lindau nach links und folge der Uferlinie bis zur größten Stadt am Nordufer, Friedrichshafen."
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.49": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568049",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Am Ortsanfang von Friedrichshafen fliegst du eine Rechtskurve und solltest den Friedrichshafener Flughafen erkennen können. Landeerlaubnis erteilt."
+          },
+          "de-DE": {
+            "Text": "Am Ortsanfang von Friedrichshafen fliegst du eine Rechtskurve und solltest den Friedrichshafener Flughafen erkennen können. Landeerlaubnis erteilt."
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.50": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568050",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Fliege nach dem Abheben zurück zum Bodenseeufer und folge der Uferlinie weiter in Richtung Nordosten. Etwa auf Höhe Meersburg kannst du an der gegenüberliegenden Seeseite die Mainau erkennen, die kleinste der drei Bodenseeinseln. Fliege zu ihr hinüber!"
+          },
+          "de-DE": {
+            "Text": "Fliege nach dem Abheben zurück zum Bodenseeufer und folge der Uferlinie weiter in Richtung Nordosten. Etwa auf Höhe Meersburg kannst du an der gegenüberliegenden Seeseite die Mainau erkennen, die kleinste der drei Bodenseeinseln. Fliege zu ihr hinüber!"
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.51": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568051",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Über der Mainau drehst du nach links in Richtung Südosten. Du überfliegst das Stadtgebiet von Konstanz und erreichst sehr schnell den dortigen Flughafen mit seiner Graspiste."
+          },
+          "de-DE": {
+            "Text": "Über der Mainau drehst du nach links in Richtung Südosten. Du überfliegst das Stadtgebiet von Konstanz und erreichst sehr schnell den dortigen Flughafen mit seiner Graspiste."
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.52": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568052",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Nordöstlich des Konstanzer Flughafens liegt die größte Bodensseeinsel. Die Reichenau, UNESCO Weltkulturerbe und berühmt für ihr Gemüse und die über tausendjährige Klostergeschichte ist nicht nur ein hervoragender Urlaubsort, sondern auch dein nächster Wegpunkt."
+          },
+          "de-DE": {
+            "Text": "Nordöstlich des Konstanzer Flughafens liegt die größte Bodensseeinsel. Die Reichenau, UNESCO Weltkulturerbe und berühmt für ihr Gemüse und die über tausendjährige Klostergeschichte ist nicht nur ein hervoragender Urlaubsort, sondern auch dein nächster Wegpunkt."
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.53": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568053",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Etwa über der Mitte der Reichenau fliegst du eine Linkskurve und folgst den schmaler werdenden Bodenseeteil in Richtung Südosten."
+          },
+          "de-DE": {
+            "Text": "Etwa über der Mitte der Reichenau fliegst du eine Linkskurve und folgst den schmaler werdenden Bodenseeteil in Richtung Südosten."
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.54": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568054",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Bei Stein am Rhein verändert sich der Bodensee wieder zu einem Fluss (siehe Bild). Folge dem Rhein in die Schweiz zum Rheinfall in Schaffhausen."
+          },
+          "de-DE": {
+            "Text": "Bei Stein am Rhein verändert sich der Bodensee wieder zu einem Fluss (siehe Bild). Folge dem Rhein in die Schweiz zum Rheinfall in Schaffhausen."
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.55": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568055",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Folge dem Rhein  noch ein Stück weiter bis zu der sehr markanten Rheinkurve bei Rheinau (siehe Bild)."
+          },
+          "de-DE": {
+            "Text": "Folge dem Rhein  noch ein Stück weiter bis zu der sehr markanten Rheinkurve bei Rheinau (siehe Bild)"
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.56": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568056",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Drehe über Rheinau in der Mitte der Schleife nach Osten. Nun geht es für knapp 9 Meilen über Berge und ein Tal zu deinem Etappenziel nach Bohlhof."
+          },
+          "de-DE": {
+            "Text": "Drehe über Rheinau in der Mitte der Schleife nach Osten. Nun geht es für knapp 9 Meilen über Berge und ein Tal zu deinem Etappenziel nach Bohlhof."
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.57": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568057",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Nach dem Start auf dem Flugplatz Bohlhof fliegst du in südöstlicher Richtung, bis dich der Rhein weiter nach Osten führt. Wenn von links die Aare in den Rhein mündet, bist du in Waldshut-Tiengen angekommen."
+          },
+          "de-DE": {
+            "Text": "Nach dem Start auf dem Flugplatz Bohlhof fliegst du in südöstlicher Richtung, bis dich der Rhein weiter nach Osten führt. Wenn von links die Aare in den Rhein mündet, bist du in Waldshut-Tiengen angekommen."
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.58": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568058",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Drehe über Waldshut-Tiengen nach Norden und fliege für etwa 10 Meilen, bis du links von dir einen großen See, den Schluchsee siehst."
+          },
+          "de-DE": {
+            "Text": "Drehe über Waldshut-Tiengen nach Norden und fliege für etwa 10 Meilen, bis du links von dir einen großen See, den Schluchsee siehst."
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.59": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568059",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Überfliege den Schluchsee in Längsrichtung und behalte die Flugrichtung bei. Das führt dich genau zum höchsten Berg Baden-Württembergs, dem Feldberg im Schwarzwald."
+          },
+          "de-DE": {
+            "Text": "Überfliege den Schluchsee in Längsrichtung und behalte die Flugrichtung bei. Das führt dich genau zum höchsten Berg Baden-Württembergs, dem Feldberg im Schwarzwald."
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.60": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568060",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Über dem Feldberg musst du deinen Kurs nach Nordosten ändern.  Ungefähr 5 Meilen später erreichst du den Flugplatz Kirchzarten."
+          },
+          "de-DE": {
+            "Text": "Über dem Feldberg musst du deinen Kurs nach Nordosten ändern.  Ungefähr 5 Meilen später erreichst du den Flugplatz Kirchzarten."
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.61": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568061",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Nach dem Abheben in Kirchzarten folgst du dem Tal von Kirchzarten nach Osten bis du kurz darauf Freiburg überfliegst."
+          },
+          "de-DE": {
+            "Text": "Nach dem Abheben in Kirchzarten folgst du dem Tal von Kirchzarten nach Osten bis du kurz darauf Freiburg überfliegst."
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.62": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568062",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Hinter Freiburg kannst du die nächste große Autobahn sehen, die A5. Sie führt dich weiter nach Norden. Gute 17 Meilen Flugstrecke später liegt zwischen dem Rhein und der A5 der Europapark (siehe Bild). Schön zu erkennen ist der Freizeitpark auf der einen Seite von Rust und der Wasserwelt auf der anderen Ortsseite."
+          },
+          "de-DE": {
+            "Text": "Hinter Freiburg kannst du die nächste große Autobahn sehen, die A5. Sie führt dich weiter nach Norden. Gute 17 Meilen Flugstrecke später liegt zwischen dem Rhein und der A5 der Europapark (siehe Bild). Schön zu erkennen ist der Freizeitpark auf der einen Seite von Rust und der Wasserwelt auf der anderen Ortsseite."
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.63": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568063",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Vom Europapark aus sind es keine 8 Seemeilen mehr bis nach Lahr zur Landung. Die A5 führt dich auch dorthin."
+          },
+          "de-DE": {
+            "Text": "Vom Europapark aus sind es keine 8 Seemeilen mehr bis nach Lahr zur Landung. Die A5 führt dich auch dorthin."
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.64": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568064",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Nach dem Start in Lahr drehst du nach Nordosten ab und fliegst in dieser Richtung, bis du auf den Rhein triffst."
+          },
+          "de-DE": {
+            "Text": "Nach dem Start in Lahr drehst du nach Nordosten ab und fliegst in dieser Richtung, bis du auf den Rhein triffst."
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.65": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568065",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Folge dem Rhein nach Norden, er führt dich auch in Strasbourg vorbei. Drehe dort doch eine kurze Runde über die Stadt, kannst du das Europaparlament finden?"
+          },
+          "de-DE": {
+            "Text": "Folge dem Rhein nach Norden, er führt dich auch in Strasbourg vorbei. Drehe dort doch eine kurze Runde über die Stadt, kannst du das Europaparlament finden?"
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.66": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568066",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Folge dem Rhein weiter, bis er nach einer kurzen sehr geraden Strecke eine doppelte S-Kurve beschreibt."
+          },
+          "de-DE": {
+            "Text": "Folge dem Rhein weiter, bis er nach einer kurzen sehr geraden Strecke eine doppelte S-Kurve beschreibt."
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.67": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568067",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Das sogennate Rheinknie ist für dich der Hinweis, das das Etappenziel jetzt gleich rechts des Rheins liegt: Der Flughafen Karlsruhe-Baden."
+          },
+          "de-DE": {
+            "Text": "Das sogennate Rheinknie ist für dich der Hinweis, das das Etappenziel jetzt gleich rechts des Rheins liegt: Der Flughafen Karlsruhe-Baden."
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.68": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568068",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Nach deinem Start schwenkst du nach rechts, bis du wieder die Autobahn A5 unter dir weißt."
+          },
+          "de-DE": {
+            "Text": "Nach deinem Start schwenkst du nach rechts, bis du wieder die Autobahn A5 unter dir weißt."
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.69": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568069",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Folge der A5 wieder in nördlicher Richtung, bis du das Autobahndreieck Karlsruhe überfliegst, an dem sich A5 und A8 treffen."
+          },
+          "de-DE": {
+            "Text": "Folge der A5 wieder in nördlicher Richtung, bis du das Autobahndreieck Karlsruhe überfliegst, an dem sich A5 und A8 treffen."
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.70": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568070",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Wenn du über dem Dreieck Karlsruhe nach Nordosten abdrehst, überfliegst du Karlsruhe. Kannst du das Schloss finden und erkennen, warum karlsruhe auch \"Fächerstadt\" genannt wird?"
+          },
+          "de-DE": {
+            "Text": "Wenn du über dem Dreieck Karlsruhe nach Nordosten abdrehst, überfliegst du Karlsruhe. Kannst du das Schloss finden und erkennen, warum karlsruhe auch \"Fächerstadt\" genannt wird?"
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.71": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568071",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Hinter Karlsruhe triffst du wieder auf den Rhein, der hier sehr viele alte Flussarme gebildet hat. Folge dem Rhein nach Norden!"
+          },
+          "de-DE": {
+            "Text": "Hinter Karlsruhe triffst du wieder auf den Rhein, der hier sehr viele alte Flussarme gebildet hat. Folge dem Rhein nach Norden!"
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.72": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568072",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Der Flugplatz von Speyer liegt unverfehlbar auf der Landzunge gelegen, die vom Rhein umflossen wird. Frei zur Landung."
+          },
+          "de-DE": {
+            "Text": "Der Flugplatz von Speyer liegt unverfehlbar auf der Landzunge gelegen, die vom Rhein umflossen wird. Frei zur Landung."
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.73": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568073",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Von Speyer auf führt dich dein Flug nach Westen, bis du unter dir ddas große Autobahnkreuz bei Walldorf siehst."
+          },
+          "de-DE": {
+            "Text": "Von Speyer auf führt dich dein Flug nach Westen, bis du unter dir ddas große Autobahnkreuz bei Walldorf siehst."
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.74": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568074",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Folge vom Autobahnkreuz aus der A6 in Richtung Westen, bis du Sinsheim erreichst. Das Stadion dort und das Technikmuseum mit seinen großen Hallen und ausgestellten Flugzeugen lassen dich den Ort gut erkennen."
+          },
+          "de-DE": {
+            "Text": "Folge vom Autobahnkreuz aus der A6 in Richtung Westen, bis du Sinsheim erreichst. Das Stadion dort und das Technikmuseum mit seinen großen Hallen und ausgestellten Flugzeugen lassen dich den Ort gut erkennen."
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.75": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568075",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Von Sinsheim aus sind es jetzt noch gute 13 Meilen Flug in Richtung Nordwesten, bis du den Flugplatz Mosbach erreichst."
+          },
+          "de-DE": {
+            "Text": "Von Sinsheim aus sind es jetzt noch gute 13 Meilen Flug in Richtung Nordwesten, bis du den Flugplatz Mosbach erreichst."
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.76": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568076",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Die letzte Etappe steht an und wird dich wieder zurück zum Stuttgarter Flughafen bringen. Nach dem Start in Mosbach musst du zunächst nach Süd-Südwest fliegen, bis du etwa bei Neckarsulm den Neckar unter dir fließen siehst."
+          },
+          "de-DE": {
+            "Text": "Die letzte Etappe steht an und wird dich wieder zurück zum Stuttgarter Flughafen bringen. Nach dem Start in Mosbach musst du zunächst nach Süd-Südwest fliegen, bis du etwa bei Neckarsulm den Neckar unter dir fließen siehst."
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.77": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568077",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Neckarsulm mit dem riesigen Audi-Werksgelände ist gut zu erkennen, die dahinterliegende Stadt Heilbronn ebenfalls. Der Neckar führt dich in südlicher Richtung weiter in Richtung Stuttgart."
+          },
+          "de-DE": {
+            "Text": "Neckarsulm mit dem riesigen Audi-Werksgelände ist gut zu erkennen, die dahinterliegende Stadt Heilbronn ebenfalls. Der Neckar führt dich in südlicher Richtung weiter in Richtung Stuttgart."
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.78": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568078",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Bei Besigheim macht der Neckar eine scharfe Kurve und fängt an, sich stark durch die Landschaft zu mäandern. Folge ihm trotzdem weiter. Erkennst du die Remsmündung wieder, wenn du daran vorbei fliegst?"
+          },
+          "de-DE": {
+            "Text": "Bei Besigheim macht der Neckar eine scharfe Kurve und fängt an, sich stark durch die Landschaft zu mäandern. Folge ihm trotzdem weiter. Erkennst du die Remsmündung wieder, wenn du daran vorbei fliegst?"
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.79": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568079",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Du bist richtig, wenn du am Ortsanfang von Stuttgart den Max-Eyth-See unter dir sehen kannst. Folge dem Neckar noch für ein kurzes Stück weiter."
+          },
+          "de-DE": {
+            "Text": "Du bist richtig, wenn du am Ortsanfang von Stuttgart den Max-Eyth-See unter dir sehen kannst. Folge dem Neckar noch für ein kurzes Stück weiter."
+          }
+        }
+      },
+      "raven-bushtrip-badenwuerttemberg.Mission.80": {
+        "UUID": "a67a26c1-4651-4b3b-84ef-28c87f568080",
+        "LastModifiedBy": "unknown",
+        "LastModifiedDate": "2020-09-27 19:21:00",
+        "LocalizationStatus": "TranslationNeeded",
+        "Tags": {
+          "Locked": "False"
+        },
+        "Languages": {
+          "en-US": {
+            "Text": "Das Daimler-Stadion auf der linken Neckarseite ist für dich der Hinweis, nach Südosten abzudrehen und auf den Stuttgart Flughafen zuzufliegen. Mit der Landung dort hast du die Tour rund um Baden-Württemberg abgeschlossen!"
+          },
+          "de-DE": {
+            "Text": "Das Daimler-Stadion auf der linken Neckarseite ist für dich der Hinweis, nach Südosten abzudrehen und auf den Stuttgart Flughafen zuzufliegen. Mit der Landung dort hast du die Tour rund um Baden-Württemberg abgeschlossen!"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+<AssetPackage Name="raven-bushtrip-badenwuerttemberg" Version="1.0.0">
+	<ItemSettings>
+		<ContentType>MISSION</ContentType>
+		<Title>Rund um Baden-Württemberg</Title>
+		<Manufacturer></Manufacturer>
+		<Creator>Raven Group</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\raven-bushtrip-badenwuerttemberg\ContentInfo</AssetDir>
+			<OutputDir>ContentInfo\raven-bushtrip-badenwuerttemberg\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="raven-bushtrip-badenwuerttemberg">
+			<Type>Mission</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>source</AssetDir>
+			<OutputDir>Missions\raven-bushtrip-badenwuerttembergDir\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+
