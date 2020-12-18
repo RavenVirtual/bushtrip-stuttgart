@@ -306,10 +306,10 @@
         },
         "Languages": {
           "en-US": {
-            "Text": "Die Rems führt dich in das von Weinbergen gesäumte Remstal. Nachdem du in Waiblingen den talauensee überfolgen hast, erreichst du kurz darauf Beinstein. Dort wird nun auch die Bundesstraße 29 zu deinem Begleiter. Folge Rems und B29 in das Remstal hinein."
+            "Text": "Die Rems führt dich in das von Weinbergen gesäumte Remstal. Nachdem du in Waiblingen den Talauensee überfolgen hast, erreichst du kurz darauf Beinstein. Dort wird nun auch die Bundesstraße 29 zu deinem Begleiter. Folge Rems und B29 in das Remstal hinein."
           },
           "de-DE": {
-            "Text": "Die Rems führt dich in das von Weinbergen gesäumte Remstal. Nachdem du in Waiblingen den talauensee überfolgen hast, erreichst du kurz darauf Beinstein. Dort wird nun auch die Bundesstraße 29 zu deinem Begleiter. Folge Rems und B29 in das Remstal hinein."
+            "Text": "Die Rems führt dich in das von Weinbergen gesäumte Remstal. Nachdem du in Waiblingen den Talauensee überfolgen hast, erreichst du kurz darauf Beinstein. Dort wird nun auch die Bundesstraße 29 zu deinem Begleiter. Folge Rems und B29 in das Remstal hinein."
           }
         }
       },
@@ -510,10 +510,10 @@
         },
         "Languages": {
           "en-US": {
-            "Text": "Wenn du in Donauwörth auf die Donau triffst, folge dem zweitlängsten Fluss stromaufwärts in Richtung Westen, bis du den Stausee Faimingen erreichst (siehe Bild)"
+            "Text": "Wenn du in Donauwörth auf die Donau triffst, folge dem zweitlängsten Fluss Europas stromaufwärts in Richtung Westen, bis du den Stausee Faimingen erreichst (siehe Bild)"
           },
           "de-DE": {
-            "Text": "Wenn du in Donauwörth auf die Donau triffst, folge dem zweitlängsten Fluss stromaufwärts in Richtung Westen, bis du den Stausee Faimingen erreichst (siehe Bild)"
+            "Text": "Wenn du in Donauwörth auf die Donau triffst, folge dem zweitlängsten Fluss Europas stromaufwärts in Richtung Westen, bis du den Stausee Faimingen erreichst (siehe Bild)"
           }
         }
       },
@@ -544,10 +544,10 @@
         },
         "Languages": {
           "en-US": {
-            "Text": "Nach dem Start in Gundelfingen fliegst du (ungefähr nach Osten) zurück zur Donau und folgst dieser wieder stromabwärts bis du die nächste größere Stadt erreichst, Günzburg."
+            "Text": "Nach dem Start in Gundelfingen fliegst du (ungefähr nach Osten) zurück zur Donau und folgst dieser wieder nach rechts stromaufwärts bis du die nächste größere Stadt erreichst, Günzburg."
           },
           "de-DE": {
-            "Text": "Nach dem Start in Gundelfingen fliegst du (ungefähr nach Osten) zurück zur Donau und folgst dieser wieder stromabwärts bis du die nächste größere Stadt erreichst, Günzburg."
+            "Text": "Nach dem Start in Gundelfingen fliegst du (ungefähr nach Osten) zurück zur Donau und folgst dieser wieder nach rechts stromaufwärts bis du die nächste größere Stadt erreichst, Günzburg."
           }
         }
       },
@@ -561,10 +561,10 @@
         },
         "Languages": {
           "en-US": {
-            "Text": "Wenn du nach der ersten Brücke, die Günzburg mit seinem Gewerbegebiet verbindet, nach Süd-Osten abdrehst, über fliegst du kurz darauf das Legoland Deutschland (siehe Bild)."
+            "Text": "Wenn du nach der ersten Brücke, die Günzburg mit seinem Gewerbegebiet verbindet, nach Süd-Südosten abdrehst, über fliegst du kurz darauf das Legoland Deutschland (siehe Bild)."
           },
           "de-DE": {
-            "Text": "Wenn du nach der ersten Brücke, die Günzburg mit seinem Gewerbegebiet verbindet, nach Süd-Osten abdrehst, über fliegst du kurz darauf das Legoland Deutschland (siehe Bild)."
+            "Text": "Wenn du nach der ersten Brücke, die Günzburg mit seinem Gewerbegebiet verbindet, nach Süd-Südosten abdrehst, über fliegst du kurz darauf das Legoland Deutschland (siehe Bild)."
           }
         }
       },
@@ -646,10 +646,10 @@
         },
         "Languages": {
           "en-US": {
-            "Text": "Nach dem Abheben in Memmingen fliegst du in süd-östlicher Richtung, bis du wieder auf die Autobahn A7 triffst."
+            "Text": "Nach dem Abheben in Memmingen fliegst du in süd-westlicher Richtung, bis du wieder auf die Autobahn A7 triffst."
           },
           "de-DE": {
-            "Text": "Nach dem Abheben in Memmingen fliegst du in süd-östlicher Richtung, bis du wieder auf die Autobahn A7 triffst."
+            "Text": "Nach dem Abheben in Memmingen fliegst du in süd-westlicher Richtung, bis du wieder auf die Autobahn A7 triffst."
           }
         }
       },
@@ -697,10 +697,10 @@
         },
         "Languages": {
           "en-US": {
-            "Text": "Fliege nach dem Abheben in Richtung Ost-Südost, bis du unter dir die B19 nach Süden verlaufen sehen kannst."
+            "Text": "Fliege nach dem Abheben in Richtung West-Südwest, bis du unter dir die B19 nach Süden verlaufen sehen kannst."
           },
           "de-DE": {
-            "Text": "Fliege nach dem Abheben in Richtung Ost-Südost, bis du unter dir die B19 nach Süden verlaufen sehen kannst."
+            "Text": "Fliege nach dem Abheben in Richtung West-Südwest, bis du unter dir die B19 nach Süden verlaufen sehen kannst."
           }
         }
       },
@@ -816,10 +816,10 @@
         },
         "Languages": {
           "en-US": {
-            "Text": "Drehe über Lindau nach links und folge der Uferlinie bis zur größten Stadt am Nordufer, Friedrichshafen."
+            "Text": "Folge ab Lindau der Uferlinie nach Nordwesten bis zur größten Stadt am Nordufer, Friedrichshafen."
           },
           "de-DE": {
-            "Text": "Drehe über Lindau nach links und folge der Uferlinie bis zur größten Stadt am Nordufer, Friedrichshafen."
+            "Text": "Folge ab Lindau der Uferlinie nach Nordwesten bis zur größten Stadt am Nordufer, Friedrichshafen."
           }
         }
       },
@@ -850,10 +850,10 @@
         },
         "Languages": {
           "en-US": {
-            "Text": "Fliege nach dem Abheben zurück zum Bodenseeufer und folge der Uferlinie weiter in Richtung Nordosten. Etwa auf Höhe Meersburg kannst du an der gegenüberliegenden Seeseite die Mainau erkennen, die kleinste der drei Bodenseeinseln. Fliege zu ihr hinüber!"
+            "Text": "Fliege nach dem Abheben zurück zum Bodenseeufer und folge der Uferlinie weiter in Richtung Nordwesten. Etwa auf Höhe Meersburg kannst du an der gegenüberliegenden Seeseite die Mainau erkennen, die kleinste der drei Bodenseeinseln. Fliege zu ihr hinüber!"
           },
           "de-DE": {
-            "Text": "Fliege nach dem Abheben zurück zum Bodenseeufer und folge der Uferlinie weiter in Richtung Nordosten. Etwa auf Höhe Meersburg kannst du an der gegenüberliegenden Seeseite die Mainau erkennen, die kleinste der drei Bodenseeinseln. Fliege zu ihr hinüber!"
+            "Text": "Fliege nach dem Abheben zurück zum Bodenseeufer und folge der Uferlinie weiter in Richtung Nordwesten. Etwa auf Höhe Meersburg kannst du an der gegenüberliegenden Seeseite die Mainau erkennen, die kleinste der drei Bodenseeinseln. Fliege zu ihr hinüber!"
           }
         }
       },
@@ -867,10 +867,10 @@
         },
         "Languages": {
           "en-US": {
-            "Text": "Über der Mainau drehst du nach links in Richtung Südosten. Du überfliegst das Stadtgebiet von Konstanz und erreichst sehr schnell den dortigen Flughafen mit seiner Graspiste."
+            "Text": "Über der Mainau drehst du nach links in Richtung Südwesten. Du überfliegst das Stadtgebiet von Konstanz und erreichst sehr schnell den dortigen Flughafen mit seiner Graspiste."
           },
           "de-DE": {
-            "Text": "Über der Mainau drehst du nach links in Richtung Südosten. Du überfliegst das Stadtgebiet von Konstanz und erreichst sehr schnell den dortigen Flughafen mit seiner Graspiste."
+            "Text": "Über der Mainau drehst du nach links in Richtung Südwesten. Du überfliegst das Stadtgebiet von Konstanz und erreichst sehr schnell den dortigen Flughafen mit seiner Graspiste."
           }
         }
       },
@@ -884,10 +884,10 @@
         },
         "Languages": {
           "en-US": {
-            "Text": "Nordöstlich des Konstanzer Flughafens liegt die größte Bodensseeinsel. Die Reichenau, UNESCO Weltkulturerbe und berühmt für ihr Gemüse und die über tausendjährige Klostergeschichte ist nicht nur ein hervoragender Urlaubsort, sondern auch dein nächster Wegpunkt."
+            "Text": "Nordöstlich des Konstanzer Flughafens liegt die größte Bodensseeinsel. Die Reichenau, UNESCO Welterbe und berühmt für ihr Gemüse und die über tausendjährige Klostergeschichte, ist nicht nur ein hervoragender Urlaubsort, sondern auch dein nächster Wegpunkt."
           },
           "de-DE": {
-            "Text": "Nordöstlich des Konstanzer Flughafens liegt die größte Bodensseeinsel. Die Reichenau, UNESCO Weltkulturerbe und berühmt für ihr Gemüse und die über tausendjährige Klostergeschichte ist nicht nur ein hervoragender Urlaubsort, sondern auch dein nächster Wegpunkt."
+            "Text": "Nordöstlich des Konstanzer Flughafens liegt die größte Bodensseeinsel. Die Reichenau, UNESCO Welterbe und berühmt für ihr Gemüse und die über tausendjährige Klostergeschichte, ist nicht nur ein hervoragender Urlaubsort, sondern auch dein nächster Wegpunkt."
           }
         }
       },
@@ -901,10 +901,10 @@
         },
         "Languages": {
           "en-US": {
-            "Text": "Etwa über der Mitte der Reichenau fliegst du eine Linkskurve und folgst den schmaler werdenden Bodenseeteil in Richtung Südosten."
+            "Text": "Etwa über der Mitte der Reichenau fliegst du eine Linkskurve und folgst den schmaler werdenden Bodenseeteil in Richtung Südwesten."
           },
           "de-DE": {
-            "Text": "Etwa über der Mitte der Reichenau fliegst du eine Linkskurve und folgst den schmaler werdenden Bodenseeteil in Richtung Südosten."
+            "Text": "Etwa über der Mitte der Reichenau fliegst du eine Linkskurve und folgst den schmaler werdenden Bodenseeteil in Richtung Südwesten."
           }
         }
       },
@@ -935,10 +935,10 @@
         },
         "Languages": {
           "en-US": {
-            "Text": "Folge dem Rhein  noch ein Stück weiter bis zu der sehr markanten Rheinkurve bei Rheinau (siehe Bild)."
+            "Text": "Folge dem Rhein noch ein Stück weiter bis zu der sehr markanten Rheinkurve bei Rheinau (siehe Bild)."
           },
           "de-DE": {
-            "Text": "Folge dem Rhein  noch ein Stück weiter bis zu der sehr markanten Rheinkurve bei Rheinau (siehe Bild)"
+            "Text": "Folge dem Rhein noch ein Stück weiter bis zu der sehr markanten Rheinkurve bei Rheinau (siehe Bild)"
           }
         }
       },
@@ -952,10 +952,10 @@
         },
         "Languages": {
           "en-US": {
-            "Text": "Drehe über Rheinau in der Mitte der Schleife nach Osten. Nun geht es für knapp 9 Meilen über Berge und ein Tal zu deinem Etappenziel nach Bohlhof."
+            "Text": "Drehe über Rheinau in der Mitte der Schleife nach Westen. Nun geht es für knapp 9 Meilen über Berge und ein Tal zu deinem Etappenziel nach Bohlhof."
           },
           "de-DE": {
-            "Text": "Drehe über Rheinau in der Mitte der Schleife nach Osten. Nun geht es für knapp 9 Meilen über Berge und ein Tal zu deinem Etappenziel nach Bohlhof."
+            "Text": "Drehe über Rheinau in der Mitte der Schleife nach Westen. Nun geht es für knapp 9 Meilen über Berge und ein Tal zu deinem Etappenziel nach Bohlhof."
           }
         }
       },
@@ -969,10 +969,10 @@
         },
         "Languages": {
           "en-US": {
-            "Text": "Nach dem Start auf dem Flugplatz Bohlhof fliegst du in südöstlicher Richtung, bis dich der Rhein weiter nach Osten führt. Wenn von links die Aare in den Rhein mündet, bist du in Waldshut-Tiengen angekommen."
+            "Text": "Nach dem Start auf dem Flugplatz Bohlhof fliegst du in südwestlicher Richtung, bis dich der Rhein weiter nach Westen führt. Wenn von links die Aare in den Rhein mündet, bist du in Waldshut-Tiengen angekommen."
           },
           "de-DE": {
-            "Text": "Nach dem Start auf dem Flugplatz Bohlhof fliegst du in südöstlicher Richtung, bis dich der Rhein weiter nach Osten führt. Wenn von links die Aare in den Rhein mündet, bist du in Waldshut-Tiengen angekommen."
+            "Text": "Nach dem Start auf dem Flugplatz Bohlhof fliegst du in südwestlicher Richtung, bis dich der Rhein weiter nach Westen führt. Wenn von links die Aare in den Rhein mündet, bist du in Waldshut-Tiengen angekommen."
           }
         }
       },
@@ -1020,10 +1020,10 @@
         },
         "Languages": {
           "en-US": {
-            "Text": "Über dem Feldberg musst du deinen Kurs nach Nordosten ändern.  Ungefähr 5 Meilen später erreichst du den Flugplatz Kirchzarten."
+            "Text": "Hinter dem Feldberg musst du deinen Kurs nach Nord-Nordwesten ändern.  Ungefähr 5 Meilen später erreichst du den Flugplatz Kirchzarten."
           },
           "de-DE": {
-            "Text": "Über dem Feldberg musst du deinen Kurs nach Nordosten ändern.  Ungefähr 5 Meilen später erreichst du den Flugplatz Kirchzarten."
+            "Text": "Hinter dem Feldberg musst du deinen Kurs nach Nord-Nordwesten ändern.  Ungefähr 5 Meilen später erreichst du den Flugplatz Kirchzarten."
           }
         }
       },
@@ -1037,10 +1037,10 @@
         },
         "Languages": {
           "en-US": {
-            "Text": "Nach dem Abheben in Kirchzarten folgst du dem Tal von Kirchzarten nach Osten bis du kurz darauf Freiburg überfliegst."
+            "Text": "Nach dem Abheben in Kirchzarten folgst du dem Tal von Kirchzarten nach Westen bis du kurz darauf Freiburg überfliegst."
           },
           "de-DE": {
-            "Text": "Nach dem Abheben in Kirchzarten folgst du dem Tal von Kirchzarten nach Osten bis du kurz darauf Freiburg überfliegst."
+            "Text": "Nach dem Abheben in Kirchzarten folgst du dem Tal von Kirchzarten nach Westen bis du kurz darauf Freiburg überfliegst."
           }
         }
       },
@@ -1054,10 +1054,10 @@
         },
         "Languages": {
           "en-US": {
-            "Text": "Hinter Freiburg kannst du die nächste große Autobahn sehen, die A5. Sie führt dich weiter nach Norden. Gute 17 Meilen Flugstrecke später liegt zwischen dem Rhein und der A5 der Europapark (siehe Bild). Schön zu erkennen ist der Freizeitpark auf der einen Seite von Rust und der Wasserwelt auf der anderen Ortsseite."
+            "Text": "Hinter Freiburg kannst du die nächste große Autobahn sehen, die A5. Sie führt dich weiter nach Norden. Gute 17 Meilen Flugstrecke später liegt zwischen dem Rhein und der A5 der Europapark (siehe Bild). Schön zu erkennen ist der Freizeitpark auf der einen Seite von Rust und dem Wasserpark auf der anderen Ortsseite."
           },
           "de-DE": {
-            "Text": "Hinter Freiburg kannst du die nächste große Autobahn sehen, die A5. Sie führt dich weiter nach Norden. Gute 17 Meilen Flugstrecke später liegt zwischen dem Rhein und der A5 der Europapark (siehe Bild). Schön zu erkennen ist der Freizeitpark auf der einen Seite von Rust und der Wasserwelt auf der anderen Ortsseite."
+            "Text": "Hinter Freiburg kannst du die nächste große Autobahn sehen, die A5. Sie führt dich weiter nach Norden. Gute 17 Meilen Flugstrecke später liegt zwischen dem Rhein und der A5 der Europapark (siehe Bild). Schön zu erkennen ist der Freizeitpark auf der einen Seite von Rust und dem Wasserpark auf der anderen Ortsseite."
           }
         }
       },
@@ -1088,10 +1088,10 @@
         },
         "Languages": {
           "en-US": {
-            "Text": "Nach dem Start in Lahr drehst du nach Nordosten ab und fliegst in dieser Richtung, bis du auf den Rhein triffst."
+            "Text": "Nach dem Start in Lahr drehst du nach Nordwesten ab und fliegst in dieser Richtung, bis du auf den Rhein triffst."
           },
           "de-DE": {
-            "Text": "Nach dem Start in Lahr drehst du nach Nordosten ab und fliegst in dieser Richtung, bis du auf den Rhein triffst."
+            "Text": "Nach dem Start in Lahr drehst du nach Nordwesten ab und fliegst in dieser Richtung, bis du auf den Rhein triffst."
           }
         }
       },
@@ -1190,10 +1190,10 @@
         },
         "Languages": {
           "en-US": {
-            "Text": "Wenn du über dem Dreieck Karlsruhe nach Nordosten abdrehst, überfliegst du Karlsruhe. Kannst du das Schloss finden und erkennen, warum karlsruhe auch \"Fächerstadt\" genannt wird?"
+            "Text": "Wenn du über dem Dreieck Karlsruhe nach Nordwesten abdrehst, überfliegst du Karlsruhe. Kannst du das Schloss finden und erkennen, warum karlsruhe auch \"Fächerstadt\" genannt wird?"
           },
           "de-DE": {
-            "Text": "Wenn du über dem Dreieck Karlsruhe nach Nordosten abdrehst, überfliegst du Karlsruhe. Kannst du das Schloss finden und erkennen, warum karlsruhe auch \"Fächerstadt\" genannt wird?"
+            "Text": "Wenn du über dem Dreieck Karlsruhe nach Nordwesten abdrehst, überfliegst du Karlsruhe. Kannst du das Schloss finden und erkennen, warum karlsruhe auch \"Fächerstadt\" genannt wird?"
           }
         }
       },
@@ -1241,10 +1241,10 @@
         },
         "Languages": {
           "en-US": {
-            "Text": "Von Speyer auf führt dich dein Flug nach Westen, bis du unter dir ddas große Autobahnkreuz bei Walldorf siehst."
+            "Text": "Von Speyer auf führt dich dein Flug nach Westen, bis du unter dir das große Autobahnkreuz bei Walldorf siehst."
           },
           "de-DE": {
-            "Text": "Von Speyer auf führt dich dein Flug nach Westen, bis du unter dir ddas große Autobahnkreuz bei Walldorf siehst."
+            "Text": "Von Speyer auf führt dich dein Flug nach Westen, bis du unter dir das große Autobahnkreuz bei Walldorf siehst."
           }
         }
       },
@@ -1258,10 +1258,10 @@
         },
         "Languages": {
           "en-US": {
-            "Text": "Folge vom Autobahnkreuz aus der A6 in Richtung Westen, bis du Sinsheim erreichst. Das Stadion dort und das Technikmuseum mit seinen großen Hallen und ausgestellten Flugzeugen lassen dich den Ort gut erkennen."
+            "Text": "Folge vom Autobahnkreuz aus der A6 in Richtung Osten, bis du Sinsheim erreichst. Das Stadion dort und das Technikmuseum mit seinen großen Hallen und ausgestellten Flugzeugen lassen dich den Ort gut erkennen."
           },
           "de-DE": {
-            "Text": "Folge vom Autobahnkreuz aus der A6 in Richtung Westen, bis du Sinsheim erreichst. Das Stadion dort und das Technikmuseum mit seinen großen Hallen und ausgestellten Flugzeugen lassen dich den Ort gut erkennen."
+            "Text": "Folge vom Autobahnkreuz aus der A6 in Richtung Osten, bis du Sinsheim erreichst. Das Stadion dort und das Technikmuseum mit seinen großen Hallen und ausgestellten Flugzeugen lassen dich den Ort gut erkennen."
           }
         }
       },
@@ -1275,10 +1275,10 @@
         },
         "Languages": {
           "en-US": {
-            "Text": "Von Sinsheim aus sind es jetzt noch gute 13 Meilen Flug in Richtung Nordwesten, bis du den Flugplatz Mosbach erreichst."
+            "Text": "Von Sinsheim aus sind es jetzt noch gute 13 Meilen Flug in Richtung Nordosten, bis du den Flugplatz Mosbach erreichst."
           },
           "de-DE": {
-            "Text": "Von Sinsheim aus sind es jetzt noch gute 13 Meilen Flug in Richtung Nordwesten, bis du den Flugplatz Mosbach erreichst."
+            "Text": "Von Sinsheim aus sind es jetzt noch gute 13 Meilen Flug in Richtung Nordosten, bis du den Flugplatz Mosbach erreichst."
           }
         }
       },
@@ -1292,10 +1292,10 @@
         },
         "Languages": {
           "en-US": {
-            "Text": "Die letzte Etappe steht an und wird dich wieder zurück zum Stuttgarter Flughafen bringen. Nach dem Start in Mosbach musst du zunächst nach Süd-Südwest fliegen, bis du etwa bei Neckarsulm den Neckar unter dir fließen siehst."
+            "Text": "Die letzte Etappe steht an und wird dich wieder zurück zum Stuttgarter Flughafen bringen. Nach dem Start in Mosbach musst du zunächst nach Süd-Südost fliegen, bis du spätestens bei Neckarsulm den Neckar unter dir fließen siehst."
           },
           "de-DE": {
-            "Text": "Die letzte Etappe steht an und wird dich wieder zurück zum Stuttgarter Flughafen bringen. Nach dem Start in Mosbach musst du zunächst nach Süd-Südwest fliegen, bis du etwa bei Neckarsulm den Neckar unter dir fließen siehst."
+            "Text": "Die letzte Etappe steht an und wird dich wieder zurück zum Stuttgarter Flughafen bringen. Nach dem Start in Mosbach musst du zunächst nach Süd-Südost fliegen, bis du spätestens bei Neckarsulm den Neckar unter dir fließen siehst."
           }
         }
       },
@@ -1360,10 +1360,10 @@
         },
         "Languages": {
           "en-US": {
-            "Text": "Das Daimler-Stadion auf der linken Neckarseite ist für dich der Hinweis, nach Südosten abzudrehen und auf den Stuttgart Flughafen zuzufliegen. Mit der Landung dort hast du die Tour rund um Baden-Württemberg abgeschlossen!"
+            "Text": "Das Daimler-Stadion auf der linken Neckarseite ist für dich der Hinweis, nach Südwesten abzudrehen und auf den Stuttgart Flughafen zuzufliegen. Mit der Landung dort hast du die Tour rund um Baden-Württemberg abgeschlossen!"
           },
           "de-DE": {
-            "Text": "Das Daimler-Stadion auf der linken Neckarseite ist für dich der Hinweis, nach Südosten abzudrehen und auf den Stuttgart Flughafen zuzufliegen. Mit der Landung dort hast du die Tour rund um Baden-Württemberg abgeschlossen!"
+            "Text": "Das Daimler-Stadion auf der linken Neckarseite ist für dich der Hinweis, nach Südwesten abzudrehen und auf den Stuttgart Flughafen zuzufliegen. Mit der Landung dort hast du die Tour rund um Baden-Württemberg abgeschlossen!"
           }
         }
       }
