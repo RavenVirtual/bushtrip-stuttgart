@@ -17,6 +17,7 @@
         },
         "Languages": {
           "en-US": {
+            "Text": "Welcome to Stuttgart! The beautiful weather is perfect to take the plane for a flight. You're starting a trip around the German state of Baden-Württemberg in 15 legs, starting and ending the tour here in Stuttgart."
           },
           "de-DE": {
             "Text": "Willkommen auf den Fildern! Das wunderbare Wetter ist perfekt um das Privatflugzeug aus dem Hangar zu holen. Wir starten zu einem Rundflug von und nach Stuttgart in 15 Legs."
@@ -33,6 +34,7 @@
         },
         "Languages": {
           "en-US": {
+            "Text": "Round Baden-Wuerttemberg"
           },
           "de-DE": {
             "Text": "Rund um Baden-Wuerttemberg"
@@ -49,6 +51,7 @@
         },
         "Languages": {
           "en-US": {
+            "Text": "from and to Stuttgart"
           },
           "de-DE": {
             "Text": "von und nach Stuttgart"
@@ -65,6 +68,7 @@
         },
         "Languages": {
           "en-US": {
+            "Text": "What goes up must come down. Nonder kommet se älle."
           },
           "de-DE": {
             "Text": "What goes up must come down. Nonder kommet se älle."
@@ -166,6 +170,7 @@
         },
         "Languages": {
           "en-US": {
+            "Text": "You are starting at the GAT, the general aviation parking. When exiting the GAT, taxi to the left and follow taxiway N to holding point C. Keep an eye on the signs next to the taxiway to find the right route. After that, you take off runway 25 towards west."
           },
           "de-DE": {
             "Text": "Du startest auf dem GAT, dem Parkplatz der allgemeinen Luftfahrt. Rolle mit deinem Flieger nach links, wenn du das GAT verlässt und folge dem Rollweg N bis zum Abflugspunkt C. Beachte dazu die Beschilderung am Rande des Rollwegs. Gestartet wird dann anschließend auf der Piste 25 in Richtung Westen."
@@ -182,6 +187,7 @@
         },
         "Languages": {
           "en-US": {
+            "Text": "If you look to the right, you can see highway A8. Follow it towards west for about 5 miles until you can see the big cloverleaf interchange."
           },
           "de-DE": {
             "Text": "Rechts des Flughafens verläuft die Autobahn A8. Folge der Autobahn nach Westen für circa 5 Meilen bis zum Stuttgarter Kreuz."
@@ -198,6 +204,7 @@
         },
         "Languages": {
           "en-US": {
+            "Text": "At the interchange make a sharp right turn heading north-northeast until you overfly Stuttgart University (see picture)"
           },
           "de-DE": {
             "Text": "Biege am Stuttgarter Kreuz scharf nach rechts in Richtung Nord-Osten ab, bis du über die Universität Stuttgart fliegst (siehe Bild)."
@@ -214,6 +221,7 @@
         },
         "Languages": {
           "en-US": {
+            "Text": "When you are over Stuttgart University turn northwards and overfly one of Stuttgart's many forests, the \"Bärenschlosspark\". If you reach a street crossing through the forest, follow it to the left heading north-northwest until you reach Castle Solitude."
           },
           "de-DE": {
             "Text": "Über dem Gelände der Universität drehst du nach Norden und überfliegst den Bärenschlosspark mit seinen Seen. Wenn du unter dir auf eine Straße durch den Wald triffst, folge ihr nach links in Richtung Nord-Nordwest bis zum Schloss Solitude."
@@ -230,6 +238,7 @@
         },
         "Languages": {
           "en-US": {
+            "Text": "At Castle Solitude you can see an aisle in the landscape, going all the way to Ludwigsburg Castle. Follow this clearly visible line!"
           },
           "de-DE": {
             "Text": "Von Schloss Solitude führt eine Schneise (und später dann eine Straße) in direkter Linie zum Schloss in Ludwigsburg. Folge dieser gut sichtbaren Linie in der Landschaft."
@@ -246,6 +255,7 @@
         },
         "Languages": {
           "en-US": {
+            "Text": "Behind a small forest you can spot the shunting yard of Kornwestheim. If you are abeam the middle of the shunting yard, turn right by about 70 degrees. Directly beside the golfing course \"Neckartal\" is Pattonville Airport. Have a safe landing!"
           },
           "de-DE": {
             "Text": "Hinter einem Wäldchen kannst du den Rangierbahnhof Kornwestheim rechts der Linie erkennen. Wenn ungefähr die Mitte des Rangierbahnhofs rechts von dir liegt, drehst du um etwa 70 Grad nach rechts. Direkt neben dem Golfplatz Neckartal liegt dein Etappenziel Pattonville."
@@ -262,6 +272,7 @@
         },
         "Languages": {
           "en-US": {
+            "Text": "After takeoff in Pattonville turn eastwards and follow the river Neckar for a short bit towards north until you reach the river mouth of the smaller river \"Rems\" in the town of Remseck."
           },
           "de-DE": {
             "Text": "Nach dem Abheben in Pattonville fliegst du nach Osten und folgst dem Neckar für ein kurzes Stück nach Norden bis zur Remsmündung in Remseck."
@@ -278,6 +289,7 @@
         },
         "Languages": {
           "en-US": {
+            "Text": "At the river mouth make a sharp right turn and follow the winding slopes of the Rems to Waiblingen."
           },
           "de-DE": {
             "Text": "An der Remsmündung fliegst du eine scharfe Rechtskurve und folgst dem gewundenen und von Bäumen gesäumten Verlauf der Rems nach Waiblingen Beinstein."
@@ -549,7 +561,6 @@
         },
         "Languages": {
           "en-US": {
-            "Text": "Wenn du nach der ersten Brücke, die Günzburg mit seinem Gewerbegebiet verbindet, nach Süd-Osten abdrehst, über fliegst du kurz darauf das Legoland Deutschland (siehe Bild)."
             "Text": "After you passed the first bridge that connects Günzburg with its industrial area, turn towards south-southwest. Soon you reach Legoland Germany (see picture)."
           },
           "de-DE": {
