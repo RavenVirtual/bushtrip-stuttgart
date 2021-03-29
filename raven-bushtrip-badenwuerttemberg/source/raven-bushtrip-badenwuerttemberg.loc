@@ -297,7 +297,7 @@
             "Text": "The river Rems leads you into the \"Remstal\", the Rems valley. After you have overflown lake Talaue in Waiblingen the rural highway B29 joins your route depper in the lush valley."
           },
           "de-DE": {
-            "Text": "Die Rems führt dich in das von Weinbergen gesäumte Remstal. Nachdem du in Waiblingen den talauensee überfolgen hast, erreichst du kurz darauf Beinstein. Dort wird nun auch die Bundesstraße 29 zu deinem Begleiter. Folge Rems und B29 in das Remstal hinein."
+            "Text": "Die Rems führt dich in das von Weinbergen gesäumte Remstal. Nachdem du in Waiblingen den Talauensee überfolgen hast, erreichst du kurz darauf Beinstein. Dort wird nun auch die Bundesstraße 29 zu deinem Begleiter. Folge Rems und B29 in das Remstal hinein."
           }
         }
       },
@@ -501,7 +501,7 @@
             "Text": "When you arrive at the Danube at Donauwörth, follow the second largest river in Europe towards west, until you arrive at the reservoir Faimingen (see picture)"
           },
           "de-DE": {
-            "Text": "Wenn du in Donauwörth auf die Donau triffst, folge dem zweitlängsten Fluss stromaufwärts in Richtung Westen, bis du den Stausee Faimingen erreichst (siehe Bild)"
+            "Text": "Wenn du in Donauwörth auf die Donau triffst, folge dem zweitlängsten Fluss Europas stromaufwärts in Richtung Westen, bis du den Stausee Faimingen erreichst (siehe Bild)"
           }
         }
       },
@@ -535,7 +535,7 @@
             "Text": "After takeoff head back to the Danube river (should be east of you) and once you reach it, follow it upstream (towards your right hand side). Shortly after you reach the next bigger city of Günzburg."
           },
           "de-DE": {
-            "Text": "Nach dem Start in Gundelfingen fliegst du (ungefähr nach Osten) zurück zur Donau und folgst dieser wieder stromabwärts bis du die nächste größere Stadt erreichst, Günzburg."
+            "Text": "Nach dem Start in Gundelfingen fliegst du (ungefähr nach Osten) zurück zur Donau und folgst dieser wieder nach rechts stromaufwärts bis du die nächste größere Stadt erreichst, Günzburg."
           }
         }
       },
@@ -553,7 +553,7 @@
             "Text": "After you passed the first bridge that connects Günzburg with its industrial area, turn towards south-southwest. Soon you reach Legoland Germany (see picture)."
           },
           "de-DE": {
-            "Text": "Wenn du nach der ersten Brücke, die Günzburg mit seinem Gewerbegebiet verbindet, nach Süd-Osten abdrehst, über fliegst du kurz darauf das Legoland Deutschland (siehe Bild)."
+            "Text": "Wenn du nach der ersten Brücke, die Günzburg mit seinem Gewerbegebiet verbindet, nach Süd-Südosten abdrehst, über fliegst du kurz darauf das Legoland Deutschland (siehe Bild)."
           }
         }
       },
@@ -638,7 +638,7 @@
             "Text": "After takeoff fly towards south-west until you reach highway A7 again."
           },
           "de-DE": {
-            "Text": "Nach dem Abheben in Memmingen fliegst du in süd-östlicher Richtung, bis du wieder auf die Autobahn A7 triffst."
+            "Text": "Nach dem Abheben in Memmingen fliegst du in süd-westlicher Richtung, bis du wieder auf die Autobahn A7 triffst."
           }
         }
       },
@@ -689,7 +689,7 @@
             "Text": "Fly towards west-southwest until you can spot highway B19 beneath you."
           },
           "de-DE": {
-            "Text": "Fliege nach dem Abheben in Richtung Ost-Südost, bis du unter dir die B19 nach Süden verlaufen sehen kannst."
+            "Text": "Fliege nach dem Abheben in Richtung West-Südwest, bis du unter dir die B19 nach Süden verlaufen sehen kannst."
           }
         }
       },
@@ -808,7 +808,7 @@
             "Text": "Follow the shoreline towards northwest, once you reach Lindau. A little flight after you reach the largest city on the north shores, Friedrichshafen."
           },
           "de-DE": {
-            "Text": "Drehe über Lindau nach links und folge der Uferlinie bis zur größten Stadt am Nordufer, Friedrichshafen."
+            "Text": "Folge ab Lindau der Uferlinie nach Nordwesten bis zur größten Stadt am Nordufer, Friedrichshafen."
           }
         }
       },
@@ -842,7 +842,7 @@
             "Text": "After takeoff head back to Lake Constance and follow the shoreline in a northwest direction. When you are above the city of Meersburg, you can spot the island \"Mainau\" on the other side of the lake, the smallest of the three islands. Fly over there!"
           },
           "de-DE": {
-            "Text": "Fliege nach dem Abheben zurück zum Bodenseeufer und folge der Uferlinie weiter in Richtung Nordosten. Etwa auf Höhe Meersburg kannst du an der gegenüberliegenden Seeseite die Mainau erkennen, die kleinste der drei Bodenseeinseln. Fliege zu ihr hinüber!"
+            "Text": "Fliege nach dem Abheben zurück zum Bodenseeufer und folge der Uferlinie weiter in Richtung Nordwesten. Etwa auf Höhe Meersburg kannst du an der gegenüberliegenden Seeseite die Mainau erkennen, die kleinste der drei Bodenseeinseln. Fliege zu ihr hinüber!"
           }
         }
       },
@@ -859,7 +859,7 @@
             "Text": "Above Mainau turn left towards southwest. You fly over the city of Constance and you will soon reach the local airfield."
           },
           "de-DE": {
-            "Text": "Über der Mainau drehst du nach links in Richtung Südosten. Du überfliegst das Stadtgebiet von Konstanz und erreichst sehr schnell den dortigen Flughafen mit seiner Graspiste."
+            "Text": "Über der Mainau drehst du nach links in Richtung Südwesten. Du überfliegst das Stadtgebiet von Konstanz und erreichst sehr schnell den dortigen Flughafen mit seiner Graspiste."
           }
         }
       },
@@ -876,7 +876,7 @@
             "Text": "Northeast of the airfield, there is the island \Reichenau\", the largest island in Lake Constance. The Reichenau is not only a UNESCO World Heritage Site with more than thousand years of monastery history, but also your next waypoint."
           },
           "de-DE": {
-            "Text": "Nordöstlich des Konstanzer Flughafens liegt die größte Bodensseeinsel. Die Reichenau, UNESCO Weltkulturerbe und berühmt für ihr Gemüse und die über tausendjährige Klostergeschichte ist nicht nur ein hervoragender Urlaubsort, sondern auch dein nächster Wegpunkt."
+            "Text": "Nordöstlich des Konstanzer Flughafens liegt die größte Bodensseeinsel. Die Reichenau, UNESCO Welterbe und berühmt für ihr Gemüse und die über tausendjährige Klostergeschichte, ist nicht nur ein hervoragender Urlaubsort, sondern auch dein nächster Wegpunkt."
           }
         }
       },
@@ -893,7 +893,7 @@
             "Text": "When you are about half way over the island, make a left turn and follow the funnel Lake Constance creates towards southwest."
           },
           "de-DE": {
-            "Text": "Etwa über der Mitte der Reichenau fliegst du eine Linkskurve und folgst den schmaler werdenden Bodenseeteil in Richtung Südosten."
+            "Text": "Etwa über der Mitte der Reichenau fliegst du eine Linkskurve und folgst den schmaler werdenden Bodenseeteil in Richtung Südwesten."
           }
         }
       },
@@ -927,7 +927,7 @@
             "Text": "Keep following the RHine River for aa bit longer until you reach a very distinct bend at \"Rheinau\" (see picture)."
           },
           "de-DE": {
-            "Text": "Folge dem Rhein  noch ein Stück weiter bis zu der sehr markanten Rheinkurve bei Rheinau (siehe Bild)"
+            "Text": "Folge dem Rhein noch ein Stück weiter bis zu der sehr markanten Rheinkurve bei Rheinau (siehe Bild)"
           }
         }
       },
@@ -944,7 +944,7 @@
             "Text": "When you are directly above the bend, turn west. Fly for about 9 nautical miles over hills, mountains and valleys until you reach the goal of this leg, \"Bohlhof\"."
           },
           "de-DE": {
-            "Text": "Drehe über Rheinau in der Mitte der Schleife nach Osten. Nun geht es für knapp 9 Meilen über Berge und ein Tal zu deinem Etappenziel nach Bohlhof."
+            "Text": "Drehe über Rheinau in der Mitte der Schleife nach Westen. Nun geht es für knapp 9 Meilen über Berge und ein Tal zu deinem Etappenziel nach Bohlhof."
           }
         }
       },
@@ -961,7 +961,7 @@
             "Text": "After takeoff in Bohlhof, fly towards southwest. When you reach Rhine River again, follow it to the west. If you can see the Aare River flowing into the Rhine from the left side, you have reached the city of \"Waldshut-Tiengen\"."
           },
           "de-DE": {
-            "Text": "Nach dem Start auf dem Flugplatz Bohlhof fliegst du in südöstlicher Richtung, bis dich der Rhein weiter nach Osten führt. Wenn von links die Aare in den Rhein mündet, bist du in Waldshut-Tiengen angekommen."
+            "Text": "Nach dem Start auf dem Flugplatz Bohlhof fliegst du in südwestlicher Richtung, bis dich der Rhein weiter nach Westen führt. Wenn von links die Aare in den Rhein mündet, bist du in Waldshut-Tiengen angekommen."
           }
         }
       },
@@ -1012,7 +1012,7 @@
             "Text": "Once you passed the Feldberg turn towards north-northwest. Only about 5 miles later you reach the airfield at the city of \"Kirchzarten\"."
           },
           "de-DE": {
-            "Text": "Über dem Feldberg musst du deinen Kurs nach Nordosten ändern.  Ungefähr 5 Meilen später erreichst du den Flugplatz Kirchzarten."
+            "Text": "Hinter dem Feldberg musst du deinen Kurs nach Nord-Nordwesten ändern.  Ungefähr 5 Meilen später erreichst du den Flugplatz Kirchzarten."
           }
         }
       },
@@ -1029,7 +1029,7 @@
             "Text": "After takeoff follow the Kirchzarten valley towards west until you reach a big city, \"Freiburg\"."
           },
           "de-DE": {
-            "Text": "Nach dem Abheben in Kirchzarten folgst du dem Tal von Kirchzarten nach Osten bis du kurz darauf Freiburg überfliegst."
+            "Text": "Nach dem Abheben in Kirchzarten folgst du dem Tal von Kirchzarten nach Westen bis du kurz darauf Freiburg überfliegst."
           }
         }
       },
@@ -1046,7 +1046,7 @@
             "Text": "When you fly over Freiburg, you should be able to spot the next large German highway, the \"A5\". It will lead you towards north. About 17 miles northwards you reach the largest amusement park in Germany, the \"Europapark\", lying between the Rhine River and the A5."
           },
           "de-DE": {
-            "Text": "Hinter Freiburg kannst du die nächste große Autobahn sehen, die A5. Sie führt dich weiter nach Norden. Gute 17 Meilen Flugstrecke später liegt zwischen dem Rhein und der A5 der Europapark (siehe Bild). Schön zu erkennen ist der Freizeitpark auf der einen Seite von Rust und der Wasserwelt auf der anderen Ortsseite."
+            "Text": "Hinter Freiburg kannst du die nächste große Autobahn sehen, die A5. Sie führt dich weiter nach Norden. Gute 17 Meilen Flugstrecke später liegt zwischen dem Rhein und der A5 der Europapark (siehe Bild). Schön zu erkennen ist der Freizeitpark auf der einen Seite von Rust und dem Wasserpark auf der anderen Ortsseite."
           }
         }
       },
@@ -1080,7 +1080,7 @@
             "Text": "After your departure turn towards northwest and fly in that direction until you reach the Rhine River."
           },
           "de-DE": {
-            "Text": "Nach dem Start in Lahr drehst du nach Nordosten ab und fliegst in dieser Richtung, bis du auf den Rhein triffst."
+            "Text": "Nach dem Start in Lahr drehst du nach Nordwesten ab und fliegst in dieser Richtung, bis du auf den Rhein triffst."
           }
         }
       },
@@ -1182,7 +1182,7 @@
             "Text": "Turn towards northwest and you will fly over the city of Karlsruhe. Can you spot the castle and figure out why Karlsruhe is called \"Fan-City\" (Fächerstadt in German)?"
           },
           "de-DE": {
-            "Text": "Wenn du über dem Dreieck Karlsruhe nach Nordosten abdrehst, überfliegst du Karlsruhe. Kannst du das Schloss finden und erkennen, warum karlsruhe auch \"Fächerstadt\" genannt wird?"
+            "Text": "Wenn du über dem Dreieck Karlsruhe nach Nordwesten abdrehst, überfliegst du Karlsruhe. Kannst du das Schloss finden und erkennen, warum karlsruhe auch \"Fächerstadt\" genannt wird?"
           }
         }
       },
@@ -1233,7 +1233,7 @@
             "Text": "After takeoff head east until you fly over the cloverleaf-junction near the city of Walldorf."
           },
           "de-DE": {
-            "Text": "Von Speyer auf führt dich dein Flug nach Westen, bis du unter dir ddas große Autobahnkreuz bei Walldorf siehst."
+            "Text": "Von Speyer auf führt dich dein Flug nach Westen, bis du unter dir das große Autobahnkreuz bei Walldorf siehst."
           }
         }
       },
@@ -1250,7 +1250,7 @@
             "Text": "Follow the highway A6 eastwards, until you reach the city of Sinsheim. Its stadium and the technical museum with its large halls and airplanes on display makes sure you dont miss this place."
           },
           "de-DE": {
-            "Text": "Folge vom Autobahnkreuz aus der A6 in Richtung Westen, bis du Sinsheim erreichst. Das Stadion dort und das Technikmuseum mit seinen großen Hallen und ausgestellten Flugzeugen lassen dich den Ort gut erkennen."
+            "Text": "Folge vom Autobahnkreuz aus der A6 in Richtung Osten, bis du Sinsheim erreichst. Das Stadion dort und das Technikmuseum mit seinen großen Hallen und ausgestellten Flugzeugen lassen dich den Ort gut erkennen."
           }
         }
       },
@@ -1267,7 +1267,7 @@
             "Text": "From Sinsheim it is a mere 13 miles flight towards northeast, until you reach the goal of this leg, Mosbach airfield."
           },
           "de-DE": {
-            "Text": "Von Sinsheim aus sind es jetzt noch gute 13 Meilen Flug in Richtung Nordwesten, bis du den Flugplatz Mosbach erreichst."
+            "Text": "Von Sinsheim aus sind es jetzt noch gute 13 Meilen Flug in Richtung Nordosten, bis du den Flugplatz Mosbach erreichst."
           }
         }
       },
@@ -1284,7 +1284,7 @@
             "Text": "The last leg awaits you and will bring you back to Stuttgart Airport. After takeoff fly towards south-southwest until you reach the Neckar River again, latest at the city of Neckarsulm."
           },
           "de-DE": {
-            "Text": "Die letzte Etappe steht an und wird dich wieder zurück zum Stuttgarter Flughafen bringen. Nach dem Start in Mosbach musst du zunächst nach Süd-Südwest fliegen, bis du etwa bei Neckarsulm den Neckar unter dir fließen siehst."
+            "Text": "Die letzte Etappe steht an und wird dich wieder zurück zum Stuttgarter Flughafen bringen. Nach dem Start in Mosbach musst du zunächst nach Süd-Südost fliegen, bis du spätestens bei Neckarsulm den Neckar unter dir fließen siehst."
           }
         }
       },
@@ -1352,7 +1352,7 @@
             "Text": "The stadium on the left riverside is your hint to turn towards southwest and head to Stuttgart Airport. With your landing you completed the tour around Baden-Württemberg!"
           },
           "de-DE": {
-            "Text": "Das Daimler-Stadion auf der linken Neckarseite ist für dich der Hinweis, nach Südosten abzudrehen und auf den Stuttgart Flughafen zuzufliegen. Mit der Landung dort hast du die Tour rund um Baden-Württemberg abgeschlossen!"
+            "Text": "Das Daimler-Stadion auf der linken Neckarseite ist für dich der Hinweis, nach Südwesten abzudrehen und auf den Stuttgart Flughafen zuzufliegen. Mit der Landung dort hast du die Tour rund um Baden-Württemberg abgeschlossen!"
           }
         }
       }
